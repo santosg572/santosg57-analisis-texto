@@ -1,0 +1,29 @@
+file = 'fmri_jul2726.txt'
+
+fil = open(file,'r')
+
+datos = fil.readlines()
+
+nl = len(datos)
+i = 1
+k = 0
+while k < nl:
+  ss = datos[k]
+  ss = ss.replace('\n', '')
+  if i < 10:
+    res = str(i)+'.' == ss[0:2]
+  else:
+    res = str(i)+'.' == ss[0:3]
+  if res:
+    print(ss)
+    i = i +1
+    k = k+1
+    while k < nl:
+      ss = datos[k]
+      ss = ss.replace('\n', '')
+      if len(ss) > 0:
+        print(ss)
+        k = k+1
+      else:
+        break
+  k = k+1

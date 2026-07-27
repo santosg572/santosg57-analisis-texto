@@ -1,0 +1,2141 @@
+1. Dialogues Clin Neurosci. 2026 Dec;28(1):1-21. doi: 
+10.1080/19585969.2025.2579280. Epub 2025 Nov 4.
+
+Integrating EEG and fMRI in naturalistic paradigms: Advances in understanding 
+mental disorders-a decade study in review (2014-2024).
+
+Mehmood A(1)(2), Xu S(1)(2), Mehmood Siddiqi S(3), Zhang L(1)(2), Huang G(1)(2), 
+Liang Z(1)(2), Zhou Y(4).
+
+Author information:
+(1)School of Biomedical Engineering, Medical School, Shenzhen University, 
+Shenzhen, China.
+(2)Guangdong Provincial Key Laboratory of Biomedical Measurements and Ultrasound 
+Imaging, Shenzhen, China.
+(3)Graduate School at Shenzhen, Tsinghua University, Shenzhen, China.
+(4)Department of Child Health, Shenzhen Maternity and Child Healthcare Hospital, 
+Shenzhen, China.
+
+Background: Integrating electroencephalography (EEG) and functional magnetic 
+resonance imaging (fMRI) with naturalistic stimuli has advanced our 
+understanding of the neural mechanisms underlying mental disorders. Naturalistic 
+paradigms use dynamic, multimodal stimuli that capture complex emotional and 
+cognitive processes more effectively than traditional experimental designs. 
+Objective: This review synthesizes research from 2014 to 2024 exploring neural 
+mechanisms of anxiety, depression, and schizophrenia within naturalistic 
+paradigms. Methods: Recent EEG-fMRI studies employing naturalistic tasks were 
+examined to identify common and disorder-specific neural alterations across 
+affective and cognitive networks. Results: In anxiety, hyperactivity in the 
+amygdala, prefrontal cortex, anterior cingulate cortex, and insula, together 
+with changes in the dorsal attention, default mode, and frontoparietal networks, 
+reflects excessive fear responses and impaired regulation. Depression is 
+characterized by disruptions in default mode and frontoparietal connectivity and 
+altered amygdala-prefrontal interactions, indicating maladaptive introspection 
+and cognitive control. Schizophrenia shows abnormalities in motor and language 
+processing, with aberrant activity in frontal, parietal, and temporal regions 
+including the insula and temporoparietal junction. Conclusion: These findings 
+highlight the shared involvement of the amygdala, prefrontal cortex, anterior 
+cingulate cortex, and insula across disorders and demonstrate the potential of 
+naturalistic paradigms for advancing personalized diagnostics and interventions 
+in mental health.
+
+DOI: 10.1080/19585969.2025.2579280
+PMCID: PMC12590575
+PMID: 41188688 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+2. Health Inf Sci Syst. 2025 Dec 16;14(1):14. doi: 10.1007/s13755-025-00413-y. 
+eCollection 2026 Dec.
+
+An interpretable approach for schizophrenia classification using fMRI and sMRI 
+features.
+
+Chakraborty A(1), Chowdhury L(2), Thuseethan S(2), Sebastian Y(2).
+
+Author information:
+(1)School of Science, Engineering and Technology, East Delta University, 
+Chittagong, 4209 Bangladesh.
+(2)Faculty of Science and Technology, Charles Darwin University, Casuarina, 0810 
+Australia.
+
+Schizophrenia is a neurodivergent disorder that can be studied using 
+neuroimaging-based machine learning models for early diagnosis and 
+classification. Despite advances in neuroimaging, a gap remains in visualising 
+multimodal magnetic resonance imaging (MRI) data, compounded by challenges in 
+interpretability and complex feature extraction. In this study, we propose a 
+novel framework that integrates structural MRI (sMRI) and functional MRI (fMRI) 
+data to improve schizophrenia classification accuracy while visualizing 
+disorder-specific abnormalities. We employed the MLSP 2014 Schizophrenia 
+Classification Challenge dataset comprising 86 subjects (40 schizophrenia 
+patients and 46 healthy controls) and extracted 410 neuroimaging features, 378 
+FNC features from fMRI, and 32 SBM features from sMRI, using independent 
+component analysis (ICA). To enhance clinical relevance, we further validated 
+our approach on the publicly available COBRE (Center for Biomedical Research 
+Excellence) dataset, which provides high-resolution anatomical MRI and 
+resting-state fMRI scans for 147 participants (72 schizophrenia patients and 75 
+healthy controls) along with phenotypic details such as age, gender, handedness, 
+and diagnostic information. The proposed multi-scale recurrent neural network 
+(MsRNN) achieved 83.33% accuracy on the MLSP dataset and 89.8% on the COBRE 
+dataset. To improve interpretability, layer-wise relevance propagation and 
+gradient-weighted class activation mapping generated clinically meaningful 
+visualizations of discriminative brain regions. These results demonstrate that 
+the proposed multimodal, XAI-integrated framework outperforms conventional 
+models while offering transparent, clinically useful explanations to aid 
+diagnostic decision-making.
+
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025. 
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the author(s) 
+or other rightsholder(s); author self-archiving of the accepted manuscript 
+version of this article is solely governed by the terms of such publishing 
+agreement and applicable law.
+
+DOI: 10.1007/s13755-025-00413-y
+PMCID: PMC12708487
+PMID: 41415695
+
+Conflict of interest statement: Conflict of interestWe have no Conflict of 
+interest to disclose.
+
+
+3. Dialogues Clin Neurosci. 2026 Dec;28(1):32-45. doi: 
+10.1080/19585969.2026.2612918. Epub 2026 Jan 20.
+
+Functional brain alterations in anxious depression: Insights from whole-brain 
+fMRI and meta-analysis.
+
+Huang H(1), Guo Z(2), Yang X(1), Qin L(1).
+
+Author information:
+(1)School of Clinical Medicine, The First Affiliated Hospital of Chengdu Medical 
+College, Chengdu, China.
+(2)Department of Radiology, Imaging Institute of Rehabilitation and Development 
+of Brain Function, The Second Clinical Medical College of North Sichuan Medical 
+College Nanchong Central Hospital, Nanchong, China.
+
+OBJECTIVE: The aim of our study was to investigate neurobiological markers and 
+gender difference for diagnosing anxious major depressive disorder (aMDD) 
+through a meta-analysis.
+METHODS: We systematically searched multiple databases for whole-brain 
+neuroimaging studies comparing anxious major depression disorder (aMDD), pure 
+MDD, and healthy controls, with publication dates through December 2024. We 
+extracted brain coordinates and their corresponding peaks, for further analysis 
+using the Seed-based d Mapping software package.
+RESULTS: A total of 11 studies were included in this study, encompassing 829 
+aMDD patients, 681 MDD patients, and 865 healthy controls. The meta-analysis 
+revealed that aMDD patients exhibited increased functional alteration in the 
+left middle temporal gyrus compared to individuals diagnosed with MDD. In the 
+comparison between individuals with aMDD and healthy controls, the meta-analysis 
+revealed increased functional alteration in the anterior commissure and 
+decreased functional alteration the right middle frontal gyrus. Furthermore, the 
+meta-regression analysis revealed heightened neural activity of the left middle 
+cingulate gyrus and right anterior thalamic regions, as well as weakened neural 
+activity of the left rolandic operculum in females with aMDD compared to the 
+control group.
+CONCLUSIONS: We identified specific functional alterations in brain regions that 
+may serve as potential neurobiological markers for aMDD and associated 
+differences.
+
+DOI: 10.1080/19585969.2026.2612918
+PMCID: PMC12821352
+PMID: 41555810 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+4. Data Brief. 2026 Jul 2;67:113056. doi: 10.1016/j.dib.2026.113056. eCollection 
+2026 Aug.
+
+A single-echo/multi-echo BOLD fMRI test-retest dataset.
+
+Salo T(1)(2)(3), Singleton SP(1)(2)(3), Horien C(1)(2), Cieslak M(1)(2)(3), 
+Flook EA(1)(2)(4), Rush S(1)(2)(3), Sevchik BL(1)(2)(3), Tong TT(1)(2)(3), Taso 
+M(5), Tisdall MD(5), Roalf DR(2)(3), Satterthwaite TD(1)(2)(3).
+
+Author information:
+(1)Penn Lifespan Informatics and Neuroimaging Center, Richards Research Labs, 
+5th Floor, 3700 Hamilton Walk, University of Pennsylvania, Philadelphia, PA, 
+19104, USA.
+(2)Department of Psychiatry, Perelman School of Medicine, 3535 Market Street, 
+University of Pennsylvania, PA, 19104, USA.
+(3)Penn-CHOP Lifespan Brain Institute, Perelman School of Medicine, 3400 Spruce 
+St., Gates Pavilion, 10th Floor, Neurodevelopment and Psychosis Section, 
+Children's Hospital of Philadelphia, PA, 19104, USA.
+(4)Department of Child and Adolescent Psychiatry and Behavioral Science, 3401 
+Civic Center Boulevard, Children's Hospital of Philadelphia, Philadelphia, PA, 
+19104, USA.
+(5)Department of Radiology, Perelman School of Medicine, 3400 Spruce Street, 
+University of Pennsylvania, Philadelphia, PA, 19104, USA.
+
+Functional MRI (fMRI) remains one of the primary tools for non-invasive studies 
+of brain activity and organization in humans. Recently, multi-echo imaging has 
+generated interest due to the improved signal-to-noise and potential for 
+superior denoising. In parallel, developments in MRI processing techniques, such 
+as the use of phase data and advanced denoising methods, have continued to 
+advance the field. An important step towards adopting these methodologies is 
+directly comparing them to existing techniques using real-world data. We present 
+a neuroimaging dataset that allows for within-subject comparison of single-echo 
+vs multi-echo imaging with cutting-edge imaging acquisition parameters such as 
+magnitude and phase reconstruction and no-excitation (noise only) volumes. The 
+sample includes test-retest data from eight young adults. Each session includes 
+a T1-weighted anatomical scan, four resting-state functional MRI scans (two each 
+for single-echo and complex multi-echo), and a multi-echo task-based functional 
+MRI scan from a fractal n-back working memory task. Raw imaging files are 
+released, as well as derivatives from our open-source processing pipelines. 
+These rich data provide opportunities for direct comparison of single-echo and 
+multi-echo methodologies. Moving forward, the data facilitate studies of 
+evaluating how advanced image acquisition and processing impact test-retest 
+reliability.
+
+© 2026 The Author(s).
+
+DOI: 10.1016/j.dib.2026.113056
+PMCID: PMC13351147
+PMID: 42434500
+
+
+5. Ann Med. 2026 Dec;58(1):2662817. doi: 10.1080/07853890.2026.2662817. Epub 2026 
+May 4.
+
+Post-task resting-state fMRI of walking-related neural activity in patients with 
+stroke: immediate and delayed brain network dynamics.
+
+Yu H(1), Wang H(2), Liu S(1), Jing J(3), Huang G(4), Zhang Y(5), Chen L(6), Liu 
+X(3), Xu G(7).
+
+Author information:
+(1)Department of Rehabilitation Medicine, Beijing Tiantan Hospital, Capital 
+Medical University, Beijing, China.
+(2)Department of Rehabilitation, Huashan Hospital, Fudan University, Shanghai, 
+China.
+(3)Tiantan Neuroimaging Center of Excellence, China National Clinical Research 
+Center for Neurological Diseases, Beijing Tiantan Hospital, Beijing, China.
+(4)Department of Rehabilitation, Wuxi Central Rehabilitation Hospital, The 
+Affiliated Mental Health Center of Jiangnan University, Wuxi, Jiangsu Province, 
+China.
+(5)Department of Rehabilitation Medicine, Shanghai Hebin Rehabilitation 
+Hospital, The Affiliated Hospital of Shanghai Huashan Hospital, Shanghai, China.
+(6)Faculty of Biological Sciences, University of Leeds, Leeds, UK.
+(7)Department of Rehabilitation Medicine, Guangdong Provincial People's 
+Hospital, Guangdong Academy of Medical Sciences, Southern Medical University, 
+Guangzhou, Guangdong Province, China.
+
+BACKGROUND: Walking impairments post-stroke are common but studying their neural 
+basis with fMRI is difficult due to motion constraints. This study used 
+post-task resting-state residual activity (PTRRA) to investigate walking-related 
+neural activity without in-scanner movement.
+METHODS: Ten patients with subcortical ischemic stroke and ten matched healthy 
+controls underwent two resting-state fMRI sessions: one immediately after 
+overground walking, and another after a 20-minute delay. Clinical assessments 
+included Fugl-Meyer Assessment and Timed Up-and-Go Test (TUGT). Analyses 
+included ALFF, functional connectivity (FC), and graph theory.
+RESULTS: Significant group × time interactions showed that stroke patients had 
+increased ALFF in the contralesional primary somatosensory cortex (S1) during 
+the delayed session. This increase inversely correlated with TUGT scores (r = 
+-0.677, p = 0.032). Enhanced FC was found between contralesional S1 and 
+ipsilesional sensorimotor regions. ALFF changes and bilateral S1 FC were 
+significantly associated with mobility outcomes. Graph theory results were 
+atlas-dependent.
+CONCLUSION: Increased contralesional S1 activation and its enhanced connectivity 
+with bilateral motor areas may reflect adaptive changes supporting post-stroke 
+balance. The PTRRA method proved feasible for capturing post-walk neural 
+activity and may be useful for assessing large-scale network dynamics after 
+stroke.
+
+DOI: 10.1080/07853890.2026.2662817
+PMCID: PMC13142181
+PMID: 42080346 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+6. Neuroimage. 2026 Aug 15;337:122024. doi: 10.1016/j.neuroimage.2026.122024. Epub 
+2026 Jun 1.
+
+Laminar fMRI using magnetization transfer contrast at 7 T.
+
+Qin B(1), Chai Y(2), Qu J(3), Lyu B(4), Gao JH(5).
+
+Author information:
+(1)Beijing City Key Lab for Medical Physics and Engineering, Institute of Heavy 
+Ion Physics, School of Physics, Peking University, Beijing 100871, China; Center 
+for MRI Research, Academy for Advanced Interdisciplinary Studies, Peking 
+University, Beijing 100871, China.
+(2)Beckman Institute for Advanced Science and Technology, University of Illinois 
+at Urbana-Champaign, Urbana, Illinois 61801, USA.
+(3)MR Research Collaboration, Siemens Healthineers, Beijing 100102, China.
+(4)Changping Laboratory, Beijing 102206, China.
+(5)Beijing City Key Lab for Medical Physics and Engineering, Institute of Heavy 
+Ion Physics, School of Physics, Peking University, Beijing 100871, China; Center 
+for MRI Research, Academy for Advanced Interdisciplinary Studies, Peking 
+University, Beijing 100871, China; Changping Laboratory, Beijing 102206, China; 
+PKU-IDG/McGovern Institute for Brain Research, Peking University, Beijing 
+100871, China; National Biomedical Imaging Center, Peking University, Beijing 
+100871, China. Electronic address: jgao@pku.edu.cn.
+
+Conventional gradient-echo blood-oxygenation-level-dependent (BOLD) functional 
+magnetic resonance imaging (fMRI) is limited in spatial specificity due to 
+extravascular static dephasing around large draining veins. Although alternative 
+contrasts based on cerebral blood volume (CBV) and cerebral blood flow can 
+provide improved laminar specificity, they are typically constrained by reduced 
+sensitivity and limited temporal efficiency. Here, we evaluate a 
+specific-absorption-rate-efficient magnetization transfer contrast (MTC) 
+implementation as a practical complementary approach for laminar fMRI. Using 
+on-resonance, small-flip-angle binomial pulse trains, this approach selectively 
+attenuates the extravascular tissue background while largely preserving the 
+intravascular blood signal, thereby generating a CBV-weighted contrast with 
+retained functional sensitivity. We evaluated MTC fMRI in the human primary 
+motor (M1) and visual (V1) cortices at 7 T. In M1, MTC showed a double-peak 
+laminar profile, with peaks in both superficial and deep cortical depths. In V1, 
+MTC showed an activation shift toward the middle cortical depths and a steeper 
+signal attenuation toward the cortical surface compared with conventional BOLD. 
+These findings suggest that MTC fMRI provides a practical balance between 
+spatial specificity, functional sensitivity, and acquisition efficiency, and may 
+serve as a complementary approach for non-invasive investigations of 
+depth-dependent functional organization in laminar fMRI.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2026.122024
+PMID: 42229627 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing interests.
+
+
+7. J Affect Disord. 2026 Sep 1;408:121891. doi: 10.1016/j.jad.2026.121891. Epub 
+2026 Apr 28.
+
+Ketamine-related neural changes in treatment-resistant depression: A multimodal 
+synthesis of fMRI and PET studies.
+
+Sedeek N(1), Rivers C(2), Williamson L(2), Asadi A(3), Grundy JG(4).
+
+Author information:
+(1)Department of Genetics, Development and Cell Biology, Iowa State University, 
+USA.
+(2)Department of Neuroscience, Iowa State University, USA.
+(3)Department of Kinesiology, Iowa State University, USA.
+(4)Experience-Related Neuroplasticity Institute, Toronto, Canada. Electronic 
+address: john@erninstitute.com.
+
+Ketamine produces rapid antidepressant effects in a subset of patients with 
+treatment-resistant depression, yet neuroimaging findings have been difficult to 
+integrate because studies differ in imaging modality, analytic approach, task 
+context, and post-infusion timing. To address this, we conducted a multimodal 
+synthesis of functional magnetic resonance imaging (fMRI) and positron emission 
+tomography (PET) studies of ketamine in adults with treatment-resistant 
+depression, integrating region-level inspection and functional network mapping 
+to evaluate patterns across heterogeneous designs. The findings suggest that 
+ketamine-related effects were frequently reported in subcortical regions, 
+alongside more distributed and context-dependent effects across cortical 
+systems, including prefrontal and anterior cingulate regions. Network-level 
+summaries further suggested involvement of default-mode, ventral attention, and 
+visual systems. Given variability in imaging modality, task state, and scan 
+timing, these results should be interpreted as hypothesis-generating and 
+motivate future harmonized multimodal studies designed to directly link 
+circuit-level changes to molecular mechanisms and clinical response.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2026.121891
+PMID: 42061516 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflicts of interest. The authors also state that the study was not 
+pre-registered.
+
+
+8. Cogn Affect Behav Neurosci. 2026 Aug;26(4):1452-1477. doi: 
+10.3758/s13415-025-01380-3. Epub 2025 Dec 17.
+
+The neurophysiological correlates of altruism: A scoping review of fMRI, EEG, 
+and autonomic studies.
+
+Orui J(1)(2), Inoue T(2), Shiraiwa K(2)(3), Ueda M(2), Naito Y(2), Ishii 
+R(4)(5)(6).
+
+Author information:
+(1)Department of Health Science, Osaka Health Science University, 1-9-27 Tenma, 
+Osaka, Kita-ku, 530-0043, Japan.
+(2)Department of Occupational Therapy, Osaka Metropolitan University Graduate 
+School of Rehabilitation Science, 2-1-132, Morinomiya, Osaka, Joto-ku, 536-8525, 
+Japan.
+(3)Department of Rehabilitation, Osaka Kawasaki Rehabilitation University, 158 
+Mizuma, Osaka, Kaizuka, 597-0104, Japan.
+(4)Department of Occupational Therapy, Osaka Metropolitan University Graduate 
+School of Rehabilitation Science, 2-1-132, Morinomiya, Osaka, Joto-ku, 536-8525, 
+Japan. ishii@psy.med.osaka-u.ac.jp.
+(5)Department of Rehabilitation, Osaka Kawasaki Rehabilitation University, 158 
+Mizuma, Osaka, Kaizuka, 597-0104, Japan. ishii@psy.med.osaka-u.ac.jp.
+(6)Department of Psychiatry, The University of Osaka Graduate School of 
+Medicine, 2-2 Yamadaoka, Osaka, Suita, 565-0871, Japan. 
+ishii@psy.med.osaka-u.ac.jp.
+
+Altruistic motivation, a fundamental aspect of human behavior, commands 
+significant neuroscience attention. This scoping review, following PRISMA-ScR 
+guidelines, synthesizes findings from 45 fMRI, EEG, fNIRS, and autonomic nervous 
+system (ANS) studies published between 1975 and 2024, exploring the neural basis 
+of costly, other-oriented altruism. Our review covers experimental paradigms 
+utilizing fMRI, EEG, and autonomic measures to interrogate neural and 
+physiological responses associated with altruistic decision making and behavior. 
+Importantly, inclusion was not limited to online, state-dependent, or 
+event-related measurements; studies employing various acquisition timings were 
+encompassed, as long as they examined neural or physiological correlates of 
+altruistic motivation. fMRI studies consistently reveal engagement of a complex 
+neural network, including medial and dorsolateral prefrontal cortex, 
+temporoparietal junction, insula, and anterior cingulate cortex, integrating 
+social cognition, value-based decision making, and emotional processing inherent 
+in altruistic acts. EEG research highlights increased left frontal activity, 
+indicative of approach-oriented motivation, and frontal midline theta, 
+reflecting cognitive control during altruistic choices. ANS findings exhibit 
+variability but tentatively suggest parasympathetic dominance in altruistic 
+context. A key contribution is a multi-stage information-processing model of 
+altruistic motivation, integrating these modalities from socio-affective 
+appraisal through value computation, motivational orientation, and cognitive 
+control to behavioral implementation. Findings elucidate the interplay of 
+cognitive and emotional processes driving altruism, offering a nuanced 
+conceptual framework. Future research, including longitudinal studies, 
+cross-cultural comparisons, and ecologically valid assessments, is vital for 
+advancing theoretical and practical understanding of the neurophysiology of 
+altruism.
+
+© 2025. The Author(s).
+
+DOI: 10.3758/s13415-025-01380-3
+PMCID: PMC13385233
+PMID: 41408016 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: Not applicable. 
+Consent to participate: Not applicable. Consent for publication: Not applicable. 
+Open practices statement: A registered protocol is not required for scoping 
+review Conflicts of interest/Competing interests: The authors have no competing 
+interests to declare that are relevant to the content of this article.
+
+
+9. J Affect Disord. 2026 Nov 1;412:122091. doi: 10.1016/j.jad.2026.122091. Epub 
+2026 Jun 8.
+
+Neural correlates and candidate mechanisms of suicidal thoughts and behaviors in 
+youth: A review of task-based fMRI studies.
+
+Walker JC(1), Parker AJ(2), Hernandez BN(3), Wiggins JL(4).
+
+Author information:
+(1)Joint Doctoral Program in Clinical Psychology, San Diego State 
+University/University of California, San Diego, San Diego, CA, USA. Electronic 
+address: jcwalker@sdsu.edu.
+(2)Department of Psychology, University of Maryland, College Park, MD, USA.
+(3)Department of Psychology, San Diego State University, San Diego, CA, USA.
+(4)Joint Doctoral Program in Clinical Psychology, San Diego State 
+University/University of California, San Diego, San Diego, CA, USA; Department 
+of Psychology, San Diego State University, San Diego, CA, USA.
+
+Suicidal thoughts and behaviors (STBs) increase sharply during late childhood 
+and adolescence, yet the neurodevelopmental mechanisms conferring risk remain 
+poorly characterized. Mechanistic models of suicide emphasize disruptions in 
+emotion regulation, self-referential processing, reward sensitivity, and 
+cognitive control, but task-based neuroimaging evidence supporting these 
+frameworks has not been systematically consolidated. This scoping review 
+synthesizes task-based functional magnetic resonance imaging (fMRI) studies of 
+STBs in youth to evaluate neural correlates and candidate mechanisms associated 
+with suicidal ideation and attempts, following PRISMA guidelines for 18 studies 
+(N = 9902; ages 9-20 years). Across neurocognitive domains (emotion regulation, 
+self-referential processing, reward sensitivity, cognitive control), findings 
+implicate distributed circuit-level dysfunction rather than focal deficits. 
+Suicidal ideation was most strongly associated with inefficient or 
+context-dependent recruitment of prefrontal control and self-referential 
+networks, whereas suicide attempt history was linked to broader and more stable 
+disruptions in salience, limbic, and action-oriented systems. Altered social and 
+reward processing further suggest heightened sensitivity to rejection and 
+reduced responsiveness to positive outcomes. Effects were most evident in 
+clinically severe samples and largely absent in younger community cohorts, 
+indicating that neural alterations scale with symptom severity and developmental 
+stage. Importantly, patterns diverged between ideation and attempts, suggesting 
+partially distinct neurocognitive pathways that may differentiate risk for 
+thinking about suicide from progressing to suicidal behavior. Overall, current 
+evidence supports models of youth suicidality as emerging from inefficient 
+regulation and motivational systems that compromise adaptive responding under 
+stress. Task-based fMRI may therefore help identify mechanism-targeted 
+intervention points that distinguish ideation from attempts.
+
+Copyright © 2026 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2026.122091
+PMID: 42259486 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+10. Neuroimage. 2026 Aug 15;337:122038. doi: 10.1016/j.neuroimage.2026.122038. Epub 
+2026 Jun 5.
+
+Stabilizing and cleaning functional connectivity measures via native eigenspace 
+denoising of resting state fMRI data.
+
+Zhao W(1), Li H(2), Zhang Y(3), Frederick BD(4), Cong F(5), Nickerson LD(4).
+
+Author information:
+(1)School of Software, Henan Polytechnic University, Jiaozuo, China.
+(2)School of Biomedical Engineering, Faculty of Medicine, Dalian University of 
+Technology, Dalian, China; Key Laboratory of Social Computing and Cognitive 
+Intelligence (Dalian University of Technology), Ministry of Education, China. 
+Electronic address: hj_li@dlut.edu.cn.
+(3)School of Biomedical Engineering, Faculty of Medicine, Dalian University of 
+Technology, Dalian, China; Key Laboratory of Social Computing and Cognitive 
+Intelligence (Dalian University of Technology), Ministry of Education, China.
+(4)Brain Imaging Center, McLean Hospital, Belmont, MA, USA; Department of 
+Psychiatry, Harvard Medical School, Boston, MA, USA.
+(5)School of Biomedical Engineering, Faculty of Medicine, Dalian University of 
+Technology, Dalian, China; Key Laboratory of Social Computing and Cognitive 
+Intelligence (Dalian University of Technology), Ministry of Education, China; 
+Faculty of Information Technology, University of Jyvaskyla, Jyvaskyla, Finland.
+
+Resting state functional magnetic resonance imaging (rs-fMRI) signals are 
+sensitive to artifacts caused by head motion and non-neural physiological noise, 
+complicating its use to investigate brain function. These effects contaminate 
+rs-fMRI signal timeseries, confounding the calculation and analysis of 
+functional connectivity measures and degrading the interpretation of brain 
+function or changes due to neurological and psychiatric disorders. rs-fMRI 
+denoising strategies play an essential role in addressing motion and non-neural 
+noise and greatly enhance the interpretability of connectivity measures, yet 
+this is still a highly active area of research. We propose an automated 
+denoising method that performs data-driven noise estimation and suppression for 
+rs-fMRI. The method is based on sliding window segmentation and nuisance 
+regression in eigenspace for temporal and spatial eigenvectors, respectively. We 
+show that efficient noise identification/rejection produces not only improved 
+denoising but also enhances the reliability of functional connectivity. Without 
+removing the global signal, the proposed method achieves denoising performance 
+comparable to global signal regression, with trade-offs in different quality 
+metrics. NESD shows advantages in motion and temporal noise suppression, while 
+GSR excels in signal amplitude. Both methods produce similar negative 
+connectivity correlations. We provide data quality visualization tools for 
+automated assessment of noise contamination including time, space, frequency, 
+and connectivity indicators. Our findings demonstrate that denoising is critical 
+for processing rs-fMRI signals for connectivity analyses and that NESD offers a 
+practical alternative to existing approaches, with trade-offs that should be 
+considered based on specific study goals.
+
+Copyright © 2026. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuroimage.2026.122038
+PMID: 42250836 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no competing interests.
+
+
+11. Neuroimage. 2026 Aug 1;336:121973. doi: 10.1016/j.neuroimage.2026.121973. Epub 
+2026 Apr 30.
+
+Meta-analysis and meta-regression of hearing loss fMRI activity, connectivity, 
+and fluctuation alterations: Heterogeneity of auditory sensory impact across the 
+lifespan.
+
+Wang X(1), Ao B(1), Yazdani Y(2), Lau C(1), Abouzari M(2), Ratnanather JT(3), 
+Manno FAM(4).
+
+Author information:
+(1)Department of Physics, City University of Hong Kong, Hong Kong SAR, China.
+(2)Department of Otolaryngology-Head and Neck Surgery, University of California, 
+Irvine, CA, USA.
+(3)Center for Imaging Science and Institute for Computational Medicine, Johns 
+Hopkins University, Baltimore, MD, USA; Department of Biomedical Engineering, 
+Johns Hopkins University, Baltimore, MD, USA; Center for Hearing and Balance, 
+Johns Hopkins University, Baltimore, MD, USA. Electronic address: 
+tilak@cis.jhu.edu.
+(4)Department of Physics, City University of Hong Kong, Hong Kong SAR, China; 
+Center for Imaging Science and Institute for Computational Medicine, Johns 
+Hopkins University, Baltimore, MD, USA; Department of Biomedical Engineering, 
+Johns Hopkins University, Baltimore, MD, USA; Center for Hearing and Balance, 
+Johns Hopkins University, Baltimore, MD, USA. Electronic address: 
+ffmanno3-c@my.cityu.edu.hk.
+
+DOI: 10.1016/j.neuroimage.2026.121973
+PMID: 42069026
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing financial interests and no non-financial competing 
+interests.
+
+
+12. Neuroimage. 2026 Aug 15;337:122018. doi: 10.1016/j.neuroimage.2026.122018. Epub 
+2026 May 30.
+
+Resting-state fMRI-based perfusion-timing analysis in cerebral small vessel 
+disease: biomarker potential and mechanistic implications.
+
+Lee PL(1), Chou KH(2), Huang YH(3), Lee WJ(4), Peng LN(5), Chen LK(6), Lin 
+CP(7), Chung CP(8).
+
+Author information:
+(1)Center for Healthy Longevity and Aging Sciences, National Yang Ming Chiao 
+Tung University, No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, 
+Taiwan.
+(2)Brain Research Center, National Yang Ming Chiao Tung University, No. 155, 
+Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan; Institute of 
+Neuroscience, National Yang Ming Chiao Tung University, No. 155, Sec. 2, Linong 
+St. Beitou Dist., Taipei City 112304, Taiwan. Electronic address: 
+dargonchow@gmail.com.
+(3)Department of Rehabilitation and Technical Aid Center, Taipei Veterans 
+General Hospital, No.201, Sec. 2, Shipai Rd., Beitou District, Taipei City 
+11217, Taiwan.
+(4)Center for Healthy Longevity and Aging Sciences, National Yang Ming Chiao 
+Tung University, No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, 
+Taiwan; Department of Family Medicine, Taipei Veterans General Hospital Yuanshan 
+Branch, No. 386, Rongguang Rd, Yuanshan Township, Yilan County 264, Taiwan.
+(5)Center for Healthy Longevity and Aging Sciences, National Yang Ming Chiao 
+Tung University, No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, 
+Taiwan; Center for Geriatric and Gerontology, Taipei Veterans General Hospital, 
+No.201, Sec. 2, Shipai Rd., Beitou District, Taipei City 11217, Taiwan.
+(6)Center for Healthy Longevity and Aging Sciences, National Yang Ming Chiao 
+Tung University, No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, 
+Taiwan; Center for Geriatric and Gerontology, Taipei Veterans General Hospital, 
+No.201, Sec. 2, Shipai Rd., Beitou District, Taipei City 11217, Taiwan; Taipei 
+Municipal Gan-Dau Hospital (managed by Taipei Veterans General Hospital), No. 
+12, Ln. 225, Zhixing Rd., Beitou Dist., Taipei City 112020, Taiwan.
+(7)Brain Research Center, National Yang Ming Chiao Tung University, No. 155, 
+Sec. 2, Linong St. Beitou Dist., Taipei City 112304, Taiwan; Institute of 
+Neuroscience, National Yang Ming Chiao Tung University, No. 155, Sec. 2, Linong 
+St. Beitou Dist., Taipei City 112304, Taiwan; Department of Education and 
+Research, Taipei City Hospital, No.145, Zhengzhou Rd., Datong Dist., Taipei City 
+103212, Taiwan. Electronic address: chingpolin@gmail.com.
+(8)Center for Healthy Longevity and Aging Sciences, National Yang Ming Chiao 
+Tung University, No. 155, Sec. 2, Linong St. Beitou Dist., Taipei City 112304, 
+Taiwan; Department of Neurology, Neurological Institute, Taipei Veterans General 
+Hospital, No.201, Sec. 2, Shipai Rd., Beitou District, Taipei City 11217, 
+Taiwan.
+
+Cerebral small vessel disease (CSVD) is an important contributor to stroke and 
+dementia, yet the role of venous dysfunction in its pathophysiology remains 
+poorly understood. Resting-state fMRI captures spontaneous low-frequency 
+oscillations (sLFOs), reflecting cerebral blood flow dynamics primarily in the 
+venous system. We applied sLFO lag-time mapping to investigate venous perfusion 
+alterations in covert CSVD. We stratified 572 community-dwelling individuals 
+into controls and CSVD subtypes based on MRI markers, and compared voxel-wise 
+lag-time-derived perfusion indices-mean positive lag-time, mean negative 
+lag-time, and spatial lag-time distribution-between groups. Participants with 
+ischemic CSVD exhibited significantly prolonged positive lag times, indicating 
+altered perfusion timing in regions corresponding to the superficial venous 
+drainage system. Voxel-wise analyses revealed heterogeneous alterations in 
+perfusion timing and spatial distribution across CSVD subtypes, with both 
+delayed and advanced venous timing observed in distinct regions of the 
+superficial and deep venous systems. Hierarchical clustering analyses identified 
+a distinct perfusion pattern in the strictly-lobar cerebral microbleeds 
+subgroup, suggestive of cerebral amyloid angiopathy. These results suggest that 
+altered venous perfusion timing is an early hallmark of CSVD, and that rs-fMRI 
+lag-time mapping may serve as a non-invasive biomarker to detect early perfusion 
+changes and distinguish between different CSVD pathophysiological processes.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2026.122018
+PMID: 42217690 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests that could have 
+appeared to influence the work reported in this paper.
+
+
+13. Neural Netw. 2026 Aug;200:108748. doi: 10.1016/j.neunet.2026.108748. Epub 2026 
+Feb 19.
+
+Multimodal graph fusion-based GCN for Alzheimer's disease diagnosis using fMRI 
+and T1-weighted MRI.
+
+Wang G(1), Li T(2), Sun Q(3), Peng H(4), Ren T(5), Fu Y(6), Yao Z(7), Hu B(8).
+
+Author information:
+(1)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: wanggw2024@lzu.edu.cn.
+(2)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: ttli2022@lzu.edu.cn.
+(3)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: sunq2023@lzu.edu.cn.
+(4)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: pengh@lzu.edu.cn.
+(5)Department of Neurology Cadre ward, Gansu Provincial Hospital, Lanzhou, 
+730000, China. Electronic address: 15117160268@163.com.
+(6)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: fuyu@lzu.edu.cn.
+(7)School of Information Science and Engineering, Lanzhou University, Lanzhou, 
+730000, China; Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou 
+University, Lanzhou, 730000, China. Electronic address: yaozj@lzu.edu.cn.
+(8)Gansu Provincial Key Laboratory of Wearable Computing, Lanzhou University, 
+Lanzhou, 730000, China; School of Medical Technology, Beijing Institute of 
+Technology, Beijing, 100081, China. Electronic address: bh@lzu.edu.cn.
+
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder marked by 
+both structural atrophy and functional dysregulation in the brain, yet its early 
+detection remains elusive. Although recent efforts have leveraged artificial 
+intelligence combined with multimodal neuroimaging to improve diagnostic 
+accuracy, these methods often falter in harmonizing disparate data sources and 
+lack the transparency needed for clinical adoption. In particular, the sheer 
+dimensionality of functional Magnetic Resonance Imaging (fMRI) and T1-weighted 
+Magnetic Resonance Imaging (T1w-MRI) features, together with complex 
+inter-modality relationships, can lead to overfitting and hinder the reliable 
+identification of robust biomarkers. To overcome the aforementioned challenges, 
+we propose a novel Multimodal Graph Fusion Graph Convolutional Network (MGF-GCN) 
+that integrates functional (fMRI) and structural (T1w-MRI) brain features for 
+accurate and interpretable AD diagnosis. We construct brain graphs by 
+incorporating nonlinear Granger causality (NGC) from resting-state fMRI 
+(rs-fMRI) to capture inter-regional functional dependencies, alongside 
+morphological features from T1-weighted MRI to enrich node attributes. To 
+effectively align and enhance multimodal representations while preserving the 
+underlying topological structure, we introduce a cross-attention-based graph 
+fusion strategy. To further improve both performance and interpretability, we 
+develop a Bayesian Self-Attention Graph Convolutional Network (BSAGCN), where 
+attention weights are modeled as probability distributions, allowing for the 
+identification of critical brain regions and minimizing noise sensitivity. All 
+features are extracted based on the BN246 brain atlas, facilitating fine-grained 
+localization of potential biomarkers. Experimental results show that our 
+approach significantly outperforms existing methods in diagnostic accuracy and 
+interpretability, providing new insights into the pathophysiological mechanisms 
+of AD and offering valuable support for clinical decision-making.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.neunet.2026.108748
+PMID: 41780284 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All author 
+declare that they have no conflict of interest.
+
+
+14. Clin Neurol Neurosurg. 2026 Aug;267:109435. doi: 10.1016/j.clineuro.2026.109435. 
+Epub 2026 Apr 17.
+
+Precision functional network imaging-guided transcranial magnetic stimulation: A 
+review of clinical applications through resting-state fMRI.
+
+Mittelman L(1), Kazmi JS(2), Syed SA(1), Vargas LO(3), Duehr J(1), Jerliu G(4), 
+Bassett JB(5), Cater E(5), D'Amico RS(6).
+
+Author information:
+(1)Northwell, New Hyde Park, NY, USA; Department of Neurosurgery, Lenox Hill 
+Hospital, New York, NY, USA.
+(2)Northwell, New Hyde Park, NY, USA; Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Hempstead, NY, USA; Laboratory for Critical Care 
+Physiology, Feinstein Institutes for Medical Research, Northwell Health, 
+Manhasset, NY, USA.
+(3)Department of Neurosurgery, University at Buffalo Jacobs School of Medicine 
+and Biomedical Sciences, Buffalo, NY, USA.
+(4)Northwell, New Hyde Park, NY, USA; Feinstein Institutes for Medical Research, 
+Northwell Health System, Manhasset, NY, USA.
+(5)Northwell, New Hyde Park, NY, USA; Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Hempstead, NY, USA.
+(6)Northwell, New Hyde Park, NY, USA; Department of Neurosurgery, Lenox Hill 
+Hospital, New York, NY, USA; Donald and Barbara Zucker School of Medicine at 
+Hofstra/Northwell, Hempstead, NY, USA. Electronic address: 
+rdamico8@northwell.edu.
+
+Transcranial magnetic stimulation (TMS) is a non-invasive neuromodulation 
+technique approved for treatment-resistant depression and increasingly applied 
+to neuropsychiatric and neurologic conditions. However, conventional anatomical 
+targeting overlooks individual variability in brain network architecture, 
+limiting treatment efficacy. We aim to evaluate the potential of network-level 
+imaging-guided TMS to enhance precision neuromodulation by leveraging multimodal 
+structural and functional connectivity, including diffusion MRI with constrained 
+spherical deconvolution (CSD) and resting-state BOLD fMRI. We additionally 
+highlight emerging artificial intelligence (AI)-based analytic platforms capable 
+of integrating these modalities to derive individualized connectivity patterns 
+and optimized stimulation targets. We conducted a comprehensive literature 
+review of TMS applications across neuropsychiatric and neurologic conditions, 
+focusing on studies integrating diffusion MRI, functional connectivity, and 
+network-guided targeting strategies. Studies were included from peer-reviewed 
+clinical trials, meta-analyses, and neuroimaging investigations published 
+between 1990 and 2024. Evidence for the clinical superiority of 
+connectivity-guided TMS over standard anatomical targeting is mixed. Across 
+randomized and large real-world cohorts, anatomically guided rTMS remains 
+consistently effective, and connectivity-guided approaches are biologically 
+grounded and feasible but have not demonstrated a clear overall advantage. These 
+patterns suggest that the method of personalization, specifically circuit 
+selection and dose/schedule, may be more influential than connectivity or 
+anatomical guidance alone. Network-level imaging for connectivity-guided TMS 
+remains a promising direction for precision neurostimulation. Future work should 
+prioritize standardizing multimodal imaging pipelines, improving integration of 
+CSD-based tractography and functional connectivity, aligning stimulation 
+resolution with connectomic detail, and conducting pragmatic comparative trials 
+that vary both target and protocol. Developing scalable targeting solutions, 
+such as AI-assisted, atlas-based, or normative connectomic frameworks will be 
+essential when individual imaging is not feasible.
+
+Copyright © 2026. Published by Elsevier B.V.
+
+DOI: 10.1016/j.clineuro.2026.109435
+PMID: 42035652 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflicts of interest.
+
+
+15. J Affect Disord. 2026 Aug 1;406:121743. doi: 10.1016/j.jad.2026.121743. Epub 
+2026 Apr 3.
+
+Unveiling the robustness and utility of nonlinear functional connectivity in 
+resting-state fMRI.
+
+Zhang D(1), Guan S(2), Zhang Q(3), Meng C(4), Biswal B(5).
+
+Author information:
+(1)Electronic and Electrical Engineering BEng (2024), University College London, 
+Gower Street, London, WC1E 6BT, UK. Electronic address: zceedz1@ucl.ac.uk.
+(2)Key Laboratory of Electronic and Information Engineering (Southwest Minzu 
+University), State Ethnic Affairs Commission. No.16, Southern 4th Section, 1st 
+Ring Road, Chengdu, Sichuan, 610041, PR China; College of Electronic and 
+Information, Southwest Minzu University, Chengdu, 610041, PR China. Electronic 
+address: gcihey@sina.cn.
+(3)School of Creative and Digital Industries, Buckinghamshire New University, 
+High Wycombe, HP11 2JZ, UK. Electronic address: qichun.zhang@ieee.org.
+(4)School of Life Science and Technology, University of Electronic Science and 
+Technology of China, Chengdu, 611731, PR China. Electronic address: 
+chunmeng@uestc.edu.cn.
+(5)Department of Biomedical Engineering, New Jersey Institute of Technology, 
+Newark, NJ, 07102, USA. Electronic address: bbiswal@gmail.com.
+
+Increasing attention has been paid to the nonlinear functional activity of human 
+brain regions. This paper extends Chatterjee's correlation coefficient (CCC) 
+method to model nonlinear relationships in brain functional networks explicitly. 
+Specifically, the reliability and effectiveness comparisons between CCC and the 
+Pearson correlation coefficient (PCC) are demonstrated using simulated data and 
+two real resting-state functional magnetic resonance imaging (rs-fMRI) datasets: 
+The Midnight Scan Club dataset and the UCLA dataset. The results demonstrate 
+that CCC accounts for both linear and nonlinear dependencies and that its 
+reliability is better than that of PCC. Additionally, from a whole-brain 
+perspective, the number of connections in different brain regions was observed 
+in the following order: bipolar disorder (BP) and healthy controls (HC) > adult 
+attention-deficit/hyperactivity disorder (ADHD) and HC > schizophrenia (SZ) and 
+HC. The commonalities among the three psychiatric disorders compared to HC were 
+differences in occipital, default, cerebellum, and the regions connected to the 
+occipital. Besides, using CCC: occipital performed classification best (AUC: 
+0.657) between ADHD and HC, and (AUC: 0.622) between BP and HC, but 
+fronto_parietal performed classification best (AUC: 0.700) between SZ and HC. 
+This method enhances sensitivity to group differences and may provide new 
+insights for exploring functional networks based on fMRI in the future.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2026.121743
+PMID: 41936984 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest No conflict of 
+interest exits in the submission of this manuscript, and manuscript is approved 
+by all authors for publication.
+
+
+16. Sleep Med. 2026 Aug;144:109001. doi: 10.1016/j.sleep.2026.109001. Epub 2026 May 
+4.
+
+Enhanced structure-function coupling of the sensorimotor network following 
+partial sleep deprivation and its correlation with baseline vigilance: A 
+combined DWI and fMRI study.
+
+Tian Y(1), Wang S(2).
+
+Author information:
+(1)Institute of Brain and Psychological Science, Sichuan Normal University, No. 
+5 Jing'an Road, Jinjiang District, Chengdu, Sichuan, 610066, China. Electronic 
+address: yun_psych@foxmail.com.
+(2)Sleep and NeuroImaging Center, Faculty of Psychology, Southwest University, 
+Chongqing, 400715, China; Key Laboratory of Cognition and Personality, Ministry 
+of Education, Southwest University, Chongqing, 400715, China.
+
+Sleep deprivation is known to disrupt large-scale brain network organization and 
+impair vigilance, yet its influence on the coupling between brain structure and 
+function-and whether such neural changes help explain vigilance decline-remains 
+insufficiently understood. In this study, we analyzed resting-state fMRI, 
+diffusion-weighted imaging, and psychomotor vigilance task data from 54 
+participants of the Stockholm Sleepy Brain Project to characterize how partial 
+sleep deprivation reshapes structure-function coupling (SFC) at both system and 
+network levels, and how these changes relate to vigilance performance. Our 
+findings revealed that cortical SFC significantly increases after partial sleep 
+deprivation, predominantly driven by the sensorimotor network (SMN). Critically, 
+enhanced SMN coupling was significantly correlated with individual differences 
+in baseline performance: participants with more fragile vigilance exhibited a 
+more pronounced SFC enhancement. These findings remained invariant among the 
+younger and older adults. Overall, our results suggest that insufficient sleep 
+is accompanied by increased structural constraints on functional connectivity in 
+SMN. This enhancement may reflect a trait-like vulnerability, whereby 
+individuals with lower baseline vigilance are more likely to exhibit stronger 
+structural constraints on SMN functional activity when exposed to sleep 
+deprivation, highlighting the potential of network-level SFC and baseline 
+vigilance as predictive markers of vulnerability to sleep deprivation.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.sleep.2026.109001
+PMID: 42096789 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declared that they have no conflicts of interest in this work.
+
+
+17. J Neurosci Methods. 2026 Aug;432:110772. doi: 10.1016/j.jneumeth.2026.110772. 
+Epub 2026 Apr 21.
+
+Advancing temporal dynamics in spatial Random Field Theory: A framework for fMRI 
+signal detection with simulation studies and task-based fMRI application.
+
+Acquah TBK(1), Shafie K(2).
+
+Author information:
+(1)Department of Applied Statistics and Research Methods, University of Northern 
+Colorado, Greeley, CO 80639, USA. Electronic address: acqu8971@bears.unco.edu.
+(2)Department of Applied Statistics and Research Methods, University of Northern 
+Colorado, Greeley, CO 80639, USA.
+
+BACKGROUND: Functional magnetic resonance imaging (fMRI) data exhibit complex 
+spatial and temporal dependencies, yet most statistical approaches rely on 
+static or temporally independent models, limiting sensitivity to dynamic neural 
+activity. This limitation is particularly critical in task-based studies, where 
+neural responses evolve over time and across distributed brain networks.
+NEW METHOD: We propose a time-adaptive random field framework that incorporates 
+temporal dependence through a functional autoregressive process (FAR(1)), 
+leading to a novel statistic, Xmax, for spatiotemporal signal detection.
+RESULTS: Simulation studies show that Xmax achieves substantially higher 
+detection power than Ymax, with power exceeding 0.85 at high signal amplitude 
+compared to below 0.65 for competing methods, while maintaining stable Type I 
+error control. Application to real fMRI data demonstrates that Xmax produces 
+more spatially extensive and coherent activation patterns across motor, 
+language, visual, and subcortical regions, whereas GLM yields more localized and 
+fragmented activations. These findings indicate improved sensitivity to 
+temporally persistent and distributed neural signals.
+COMPARISON WITH EXISTING METHODS: Compared to Location-Scale random field theory 
+(RFT) statistic Ymax and the classical GLM, which rely on static or temporally 
+independent modeling, the proposed approach achieves improved power and produces 
+more spatially coherent activation patterns by explicitly incorporating temporal 
+dependence.
+CONCLUSIONS: Incorporating temporal dependence improves sensitivity to dynamic 
+neural signals and enables more effective detection of spatially distributed 
+brain activity, providing a powerful framework for spatiotemporal analysis in 
+neuroimaging.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2026.110772
+PMID: 42025970 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing interests. This research received no specific funding from 
+public, commercial, or not-for-profit agencies.
+
+
+18. Cogn Neurodyn. 2026 Dec;20(1):29. doi: 10.1007/s11571-025-10401-3. Epub 2026 Jan 
+27.
+
+VaeTF-A community-aware perceptual architecture for detecting autism spectrum 
+disorders using fMRI.
+
+Fan Y(1), Ai L(1), Tian Y(2).
+
+Author information:
+(1)School of Artifical Intelligence and Computer Science, Shaanxi Normal 
+University, Xi'an, 710119 China.
+(2)Xi'an Mental Health Center, Xi'an, China.
+
+Autism Spectrum Disorder (ASD) is a complex neurodevelopmental disorder, and the 
+existing clinical diagnosis mainly relies on subjective behavioral assessment 
+and lacks objective biomarkers. This paper proposes a hierarchical deep learning 
+architecture, VaeTF, incorporating community-aware mechanisms based on 
+resting-state functional magnetic resonance imaging (rs-fMRI) data. VaeTF 
+introduces a priori knowledge of the functional community, extracts localized 
+features through a variational auto-encoder (VAE), captures global dependencies 
+across brain regions using the Transformer module, and incorporates an improved 
+pooling mechanism to enhance the expressive power and model generalization 
+performance. Experimental results on the ABIDE database show that VaeTF achieves 
+71.4% accuracy in ASD and typically performs well in group classification tasks. 
+Further feature weighting analysis reveals that VaeTF is capable of identifying 
+local functional abnormalities and cross-network functional synergistic 
+dysfunctions closely related to ASD, thereby uncovering the underlying 
+neurobiological mechanisms. VaeTF not only improves the classification 
+performance of ASD but also provides a new method and theoretical support for 
+objective assessment and early diagnosis based on fMRI.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2025. Springer 
+Nature or its licensor (e.g. a society or other partner) holds exclusive rights 
+to this article under a publishing agreement with the author(s) or other 
+rightsholder(s); author self-archiving of the accepted manuscript version of 
+this article is solely governed by the terms of such publishing agreement and 
+applicable law.
+
+DOI: 10.1007/s11571-025-10401-3
+PMCID: PMC12847550
+PMID: 41613420
+
+Conflict of interest statement: Conflict of interestThe authors declare no 
+conflicts of interest.
+
+
+19. Neuroimage. 2026 Aug 15;337:122031. doi: 10.1016/j.neuroimage.2026.122031. Epub 
+2026 Jun 2.
+
+Dual-polarity reconstruction for 3D multi-shot EPI improves image quality in 
+high-resolution fMRI.
+
+Zhang J(1), Zhang B(2), Li Q(3), Liu W(4), Qian T(5).
+
+Author information:
+(1)Qiyuan Lab, Beijing, China. Electronic address: zhangjieying@qiyuanlab.com.
+(2)Qiyuan Lab, Beijing, China. Electronic address: zhangbaogui@qiyuanlab.com.
+(3)Qiyuan Lab, Beijing, China. Electronic address: liqing@qiyuanlab.com.
+(4)Qiyuan Lab, Beijing, China. Electronic address: liuwenzhang@qiyuanlab.com.
+(5)Qiyuan Lab, Beijing, China. Electronic address: qiantianyi@qiyuanlab.com.
+
+High-resolution functional MRI (fMRI) at 7 T enables sub-millimeter mapping of 
+brain activity, but 3D multi-shot echo-planar imaging (EPI) is often affected by 
+Nyquist ghost and fuzzy ripple artifacts that degrade image quality and may bias 
+functional interpretation. Dual-polarity GRAPPA (DPG) is a robust strategy for 
+correcting polarity-related artifacts, yet its practical implementation and 
+systematic evaluation in 3D multi-shot EPI for high-resolution fMRI remain 
+limited. Here, a practical dual-polarity reconstruction pipeline was implemented 
+for 3D multi-shot EPI and evaluated in phantom and in vivo experiments at 7 T. 
+The method uses a two-step strategy in which acquired RO+/RO- lines are first 
+replaced with phase-corrected data and the remaining missing samples are 
+subsequently reconstructed with conventional GRAPPA. In the 3D EPI setting, 
+kz-extended kernels were used to account for slice-/partition-dependent phase 
+behavior. Relative to linear phase correction (LPC), the proposed implementation 
+consistently reduced Nyquist ghost and fuzzy ripple artifacts across imaging 
+protocols. In sub-millimeter resting-state fMRI, it improved temporal SNR in 
+artifact-prone temporal-lobe regions. In sub-millimeter auditory task fMRI, it 
+significantly reduced false-positive activations relative to LPC while showing 
+good repeatability across repeated runs. These results provide a systematic 
+evaluation of dual-polarity reconstruction in high-resolution 3D multi-shot fMRI 
+and demonstrate its practical value for improving image fidelity and activation 
+specificity in this setting.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2026.122031
+PMID: 42235657 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+20. Cogn Affect Behav Neurosci. 2026 Aug;26(4):1741-1760. doi: 
+10.3758/s13415-026-01435-z. Epub 2026 Apr 14.
+
+Differential brain responses to affective sounds in misophonia and hyperacusis: 
+A task-based fMRI approach.
+
+Jain N(1)(2), Ajmera S(2)(3), Shahsavarani S(4), Khan RA(2)(3), Kim G(1)(2), 
+Berenbaum H(5), Husain FT(6)(7)(8).
+
+Author information:
+(1)Department of Speech and Hearing Science, University of Illinois 
+Urbana-Champaign, 901 S Sixth St, Champaign, IL, 61820, USA.
+(2)Beckman Institute for Advanced Science & Technology, University of Illinois 
+Urbana-Champaign, Urbana, IL, 61801, USA.
+(3)Neuroscience Program, University of Illinois Urbana-Champaign, Urbana, IL, 
+61801, USA.
+(4)Department of Audiology, San Jose State University, San Jose, CA, 95192, USA.
+(5)Department of Psychology, University of Illinois Urbana-Champaign, Champaign, 
+IL, 61820, USA.
+(6)Department of Speech and Hearing Science, University of Illinois 
+Urbana-Champaign, 901 S Sixth St, Champaign, IL, 61820, USA. 
+husainf@illinois.edu.
+(7)Beckman Institute for Advanced Science & Technology, University of Illinois 
+Urbana-Champaign, Urbana, IL, 61801, USA. husainf@illinois.edu.
+(8)Neuroscience Program, University of Illinois Urbana-Champaign, Urbana, IL, 
+61801, USA. husainf@illinois.edu.
+
+Humans are naturally attuned to emotionally salient sounds, such as screams 
+signaling danger, which trigger survival-related responses. In sound-sensitivity 
+disorders, such as misophonia and hyperacusis, everyday sounds provoke intense 
+emotional and behavioral reactions. Misophonia is typically triggered by 
+specific sounds, such as chewing, whereas hyperacusis involves hypersensitivity 
+to sounds above certain intensity thresholds. Because these disorders share 
+overlapping symptoms and frequently co-occur, disentangling their neural bases 
+is essential for improving diagnosis and treatments. We recruited 91 young 
+adults categorized into four groups: misophonia, hyperacusis, comorbid 
+misophonia and hyperacusis, and controls. We conducted task-based fMRI, where 
+participants listened to 90 emotionally valenced sounds from the International 
+Affective Digitized Sounds-2 database and rated their valence during scanning. 
+Whole-brain functional activation and seed-to-voxel functional connectivity 
+analyses revealed both distinct and overlapping pattern of neural correlates 
+associated with these disorders. The misophonia group, regardless of comorbid 
+hyperacusis (relative to controls), showed hyperactivation in visual association 
+areas and reduced connectivity between salience and visual networks during 
+unpleasant versus neutral sound processing. This suggests atypical cross-modal 
+sensory involvement. The hyperacusis group exhibited reduced connectivity 
+between salience hubs and frontal control regions compared to misophonia and 
+controls, indicating impaired top-down regulation. In contrast, this 
+connectivity was preserved in misophonia for generally unpleasant sounds, 
+suggesting intact regulation. The comorbid group showed neural patterns 
+associated with both disorders. Overall, these findings reveal overlapping and 
+disorder-specific neural patterns across sound tolerance profiles. Future 
+research should combine neural and behavioral data to refine mechanistic models 
+and guide targeted interventions.
+
+Publisher: Los seres humanos están naturalmente atentos a sonidos con alta 
+relevancia emocional, como los gritos que señalan peligro, los cuales 
+desencadenan respuestas relacionadas con la supervivencia. En los trastornos de 
+sensibilidad al sonido, como la misofonía y la hiperacusia, los sonidos 
+cotidianos pueden provocar reacciones emocionales y conductuales muy intensas. 
+La misofonía suele desencadenarse por sonidos específicos, como la masticación, 
+mientras que la hiperacusia implica una hipersensibilidad a sonidos que superan 
+cierto nivel de intensidad. Debido a que estos trastornos presentan síntomas 
+superpuestos y con frecuencia coexisten, distinguir sus bases neurales es 
+fundamental para mejorar el diagnóstico y el tratamiento. Se reclutó a 91 
+adultos jóvenes clasificados en cuatro grupos: misofonía, hiperacusia, ambos 
+trastornos de forma comórbida y un grupo control. Se realizó una resonancia 
+magnética funcional basada en tareas (fMRI), durante la cual los participantes 
+escucharon 90 sonidos con valencia emocional de la base de datos International 
+Affective Digitized Sounds-2 y calificaron su valencia mientras eran escaneados. 
+Los análisis cerebrales mostraron tanto patrones neuronales específicos como 
+compartidos entre los trastornos. El grupo con misofonía, independientemente de 
+la presencia de hiperacusia comórbida y en comparación con el grupo control, 
+mostró hiperactivación en áreas de asociación visual y una conectividad reducida 
+entre las redes de saliencia y las redes visuales durante el procesamiento de 
+sonidos desagradables frente a sonidos neutros. Esto sugiere una participación 
+sensorial intermodal atípica. El grupo con hiperacusia presentó menor 
+conectividad entre las regiones de atención a estímulos relevantes y las zonas 
+de control frontal, indicando dificultades en la regulación consciente de la 
+percepción sonora. En misofonía, esta conectividad se mantenía para sonidos 
+desagradables, lo que sugiere que la regulación está preservada. El grupo 
+comórbido mostró patrones neurales asociados con ambos trastornos. En conjunto, 
+estos resultados muestran que hay tanto patrones neuronales comunes como 
+específicos de cada trastorno en la tolerancia al sonido. Futuras 
+investigaciones deberían combinar información del cerebro y del comportamiento 
+para mejorar los modelos que explican estos trastornos y desarrollar 
+tratamientos más efectivos.
+
+Publisher: मनुष्य स्वाभाविक रूप से उन आवाज़ों के प्रति संवेदनशील होते हैं जिनमें 
+भावनात्मक महत्व होता है, जैसे खतरे की चेतावनी देने वाली चिल्लाहट। ऐसी आवाज़ें 
+हमारे शरीर की बचाव से जुड़ी प्रतिक्रियाओं को सक्रिय करती हैं। कुछ लोगों में 
+ध्वनि संवेदनशीलता की समस्याएँ होती हैं, जैसे मिसोफोनिया और हाइपराक्यूसिस। इन 
+लोगों के लिए सामान्य रोजमर्रा की आवाज़ें भी बहुत तीव्र भावनात्मक और व्यवहारिक 
+प्रतिक्रिया पैदा कर सकती हैं। मिसोफोनिया अक्सर किसी खास आवाज़, जैसे खाने-पीने की 
+आवाज़, से शुरू होती है, जबकि हाइपराक्यूसिस में तेज़ या तीव्र आवाज़ों के प्रति 
+संवेदनशीलता बढ़ जाती है। ये दोनों समस्याएँ कभी-कभी एक साथ भी देखी जाती हैं। 
+इसलिए इनके मस्तिष्क में होने वाले बदलावों को समझना इलाज और निदान के लिए जरूरी 
+है। इस अध्ययन में हमने 91 युवा वयस्कों को चार समूहों में बाँटा: मिसोफोनिया वाले, 
+हाइपराक्यूसिस वाले, दोनों समस्याओं वाले (सहविकारी), सामान्य लोग (नियंत्रण समूह). 
+प्रतिभागियों ने इंटरनेशनल अफेक्टिव डिजिटाइज्ड साउंड्स-2 (IADS-2) डेटाबेस से 90 
+अलग-अलग भावनात्मक आवाज़ें सुनीं और स्कैनिंग के दौरान उन्होंने बताया कि उन्हें ये 
+आवाज़ें कैसी लगीं। अनुसंधान में देखा गया कि जब मिसोफोनिया वाले लोग अप्रिय 
+आवाज़ें सुनते हैं, तो उनके दिमाग के देखने वाले हिस्से ज्यादा सक्रिय हो जाते हैं 
+। साथ ही, महत्त्व-निर्धारण तंत्र (salience network) और दृश्य नेटवर्क (visual 
+network) के बीच तालमेल कम हो जाता है। इसका मतलब है कि उनका दिमाग सुनने और देखने 
+की जानकारी को सामान्य से अलग तरीके से जोड़ता है। हाइपराक्यूसिस वाले लोगों में 
+महत्त्व-निर्धारण तंत्र और मस्तिष्क के मुख्य कार्यकारी तंत्र (जो सोचने, ध्यान 
+रखने और निर्णय लेने जैसी उच्चस्तरीय संज्ञानात्मक प्रक्रियाओं को संभालता है) के 
+बीच कनेक्शन कम पाया गया। इसका मतलब है कि उनके दिमाग का उच्चस्तरीय नियंत्रण कमजोर 
+है। इसके विपरीत, मिसोफोनिया वाले लोगों में यह कनेक्शन सामान्य बना रहता है, यानी 
+उनका दिमाग नियंत्रण बनाए रखता है। जिन लोगों में दोनों समस्याएँ एक साथ होती हैं, 
+उनके दिमाग में दोनों तरह के पैटर्न दिखाई देते हैं।” इन निष्कर्षों से पता चलता है 
+कि कुछ मस्तिष्क पैटर्न केवल मिसोफोनिया या हाइपराक्यूसिस से जुड़े होते हैं, जबकि 
+कुछ पैटर्न दोनों में सामान्य होते हैं। भविष्य में, मस्तिष्क और व्यवहार से जुड़े 
+डेटा को एक साथ मिलाकर हम इन समस्याओं के बेहतर मॉडल और लक्षित इलाज विकसित कर सकते 
+हैं।.
+
+© 2026. The Author(s).
+
+DOI: 10.3758/s13415-026-01435-z
+PMCID: PMC13385084
+PMID: 41981382 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflicts of interest: The authors 
+have no relevant financial or non-financial interests to disclose. Ethics 
+approval: This study was approved by the University of Illinois Urbana-Champaign 
+Institutional Review Board (IRB24-1118). All procedures adhered to the 
+principles of the Declaration of Helsinki. Consent to participate: Informed 
+consent was obtained from all individual participants included in the study. 
+Consent for publication: All data presented in this study are deidentified and 
+do not relate to any individual participant; consent for publication was 
+obtained.
+
+
+21. J Neurosci Methods. 2026 Oct;434:110817. doi: 10.1016/j.jneumeth.2026.110817. 
+Epub 2026 Jun 9.
+
+StatLI: A novel statistical approach to the laterality index for task-based 
+fMRI.
+
+Chowdhury S(1), Reutens D(2), Garg R(3).
+
+Author information:
+(1)University of Queensland (UQ) - Indian Institute of Technology Delhi (IITD) 
+Research Academy, Indian Institute of Technology Delhi, Hauz Khas, New Delhi, 
+110 016, Delhi NCT, India; Amar Nath and Shashi Khosla School of Information 
+Technology, Indian Institute of Technology Delhi, Hauz Khas, New Delhi, 110 016, 
+Delhi NCT, India; Centre for Advanced Imaging, The University of Queensland, St 
+Lucia, Brisbane, 4067, Queensland, Australia. Electronic address: 
+sourav.chowdhury@uqidar.iitd.ac.in.
+(2)Centre for Advanced Imaging, The University of Queensland, St Lucia, 
+Brisbane, 4067, Queensland, Australia. Electronic address: d.reutens@uq.edu.au.
+(3)Amar Nath and Shashi Khosla School of Information Technology, Indian 
+Institute of Technology Delhi, Hauz Khas, New Delhi, 110 016, Delhi NCT, India; 
+Department of Computer Science Engineering, Indian Institute of Technology 
+Delhi, Hauz Khas, New Delhi, 110 016, Delhi NCT, India. Electronic address: 
+rahulgarg@cse.iitd.ac.in.
+
+BACKGROUND: Accurate determination of lateralization is often critical in 
+neurosurgical decision-making. The laterality index (LI) provides a measure of 
+lateralization by comparing hemispheric activations within specific ROI in 
+task-based fMRI studies. LI may be affected by the statistical threshold, the 
+data SNR, and the ROI and task used.
+NEW METHOD: We describe three methods for estimating LI point estimates and 
+confidence intervals, assuming that the activated voxels are known. While 
+limiting direct application to real fMRI analyses, this simplification allowed 
+us to evaluate the statistical properties of different LI estimators. Confidence 
+intervals are calculated (1) as a naïve estimate from interval estimates based 
+on each hemispheric activation; (2) as non-symmetric levels using numerical 
+optimization; and (3) using a transformation-based approach.
+RESULTS: Increasing the SNR and activation blocks improved performance across 
+all methods, decreasing bias % and interval width. The framework was robust 
+across various noise types and ROIs, maintaining a bias below 1 %, and 
+generalized across different lateralization patterns when validated on 
+individual subject maps derived from HCP data.
+COMPARISON WITH EXISTING METHODS: A relative hierarchy in accuracy was observed, 
+with the bias being lowest for the Transformed method, followed by the Numeric 
+and the Naïve method. Subsequently, the different threshold-independent 
+methodologies from the literature consistently exhibited high bias and variance.
+CONCLUSIONS: This work establishes a theoretical baseline for developing and 
+validating more robust and reliable LI methods. These new LI methods aim to 
+enhance the accuracy of lateralization assessment in both clinical and research 
+applications.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneumeth.2026.110817
+PMID: 42263914 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+22. Addict Behav. 2026 Oct;181:108741. doi: 10.1016/j.addbeh.2026.108741. Epub 2026 
+May 19.
+
+Exploring fMRI-neurofeedback to reduce craving-related brain activity in people 
+with cannabis use disorder: A feasibility study.
+
+Murphy E(1), Poudel G(2), Dakhili AH(1), Ganesan S(3), Zalesky A(4), Glarin 
+R(5), Thomson H(1), Lin SC(6), Paloubis A(1), Kamboj SK(7), Sava T(5), Moffat 
+BA(5), Manning V(8), Suo C(9), Lorenzetti V(10).
+
+Author information:
+(1)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioural & Health Sciences, Faculty of Health 
+Science, Australian Catholic University, Victoria, Australia.
+(2)Mary MacKillop Institute for Health Research, Australian Catholic University, 
+Victoria, Australia.
+(3)Department of Psychiatry, Melbourne Medical School, The University of 
+Melbourne, Victoria, Australia; Department of Biomedical Engineering, The 
+University of Melbourne, Victoria, Australia; Contemplative Studies Centre, 
+Melbourne School of Psychological Sciences, The University of Melbourne, 
+Victoria, Australia; Centre for Youth Mental Health, Melbourne Medical School, 
+The University of Melbourne, Australia; Laureate Institute for Brain Research, 
+Tulsa, OK, USA.
+(4)Department of Psychiatry, Melbourne Medical School, The University of 
+Melbourne, Victoria, Australia; Department of Biomedical Engineering, The 
+University of Melbourne, Victoria, Australia.
+(5)Melbourne Brain Centre Imaging Unit, Department of Radiology, The University 
+of Melbourne, Victoria, Australia.
+(6)School of Psychology, Deakin University, Melbourne, Victoria, Australia; 
+Centre for Adolescent Health, Murdoch Children's Research Institute, Victoria, 
+Australia.
+(7)Clinical Psychopharmacology Unit, Research Department of Clinical, 
+Educational and Health Psychology, University College London, London, England, 
+UK.
+(8)Eastern Health Clinical School, Monash University, Victoria, Australia; 
+Turning Point, Eastern Health, Victoria, Australia.
+(9)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioural & Health Sciences, Faculty of Health 
+Science, Australian Catholic University, Victoria, Australia; QIMR Berghofer, 
+Queensland, Australia; BrainPark, Turner Institute for Brain and Mental Health, 
+Monash University, Victoria, Australia.
+(10)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioural & Health Sciences, Faculty of Health 
+Science, Australian Catholic University, Victoria, Australia; Clinical 
+Psychopharmacology Unit, Research Department of Clinical, Educational and Health 
+Psychology, University College London, London, England, UK. Electronic address: 
+valentina.lorenzetti@gmail.com.
+
+INTRODUCTION: Cannabis Use Disorder (CUD) can come with intense cravings, which 
+can trigger compulsive use/relapse, underscored by anterior cingulate cortex 
+(ACC) hyperactivity during cannabis cue-reactivity functional neuroimaging 
+(fMRI) tasks. ACC activity can be reduced during real-time fMRI-based 
+neurofeedback (fMRI-neurofeedback) in participants who use substances other than 
+cannabis, but remains untested in CUD. We investigated the feasibility of 
+fMRI-neurofeedback to reduce ACC activity and subjective craving in 10 
+participants with moderate-to-severe CUD.
+METHODS AND MATERIALS: A cue-reactivity fMRI task identified participants' 
+voxels-of-interest (VOI) within the ACC (ACCVOI). During two identical runs of 7 
+Tesla fMRI-neurofeedback, participants were instructed to use self-selected 
+strategies to reduce ACCVOI activity while receiving real-time feedback via a 
+digital craving bar (ACCVOI activity) when viewing cannabis images 
+(down-regulation), and to simply look at neutral images (non-regulation). We 
+examined the change in real-time percentage signal change (PSC) of the ACCVOI 
+during down-regulation versus non-regulation, and post-hoc (offline) whole-brain 
+activation changes.
+RESULTS: Analysis of real-time data revealed that down-regulation versus 
+non-regulation was associated with reductions in ACCVOI PSC (p < 0.05). Further, 
+whole-brain analysis reported down-regulation versus non-regulation was 
+associated with lower activity in the ACC, posterior insula, and hippocampus; 
+and greater activity in the anterior insula and middle frontal gyrus (p < 0.05, 
+FWE-corrected). Subjective craving did not change pre-to-post fMRI-neurofeedback 
+and did not correlate with ACCVOI PSC or whole-brain brain activity (p > 0.05).
+CONCLUSION: fMRI-neurofeedback may reduce the activity of regions associated 
+with craving in CUD. This effect appeared to be dissociable from subjective 
+craving. These observations need to be confirmed in larger samples with 
+placebo-controlled conditions.
+
+Copyright © 2026 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.addbeh.2026.108741
+PMID: 42208362 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+23. Hear Res. 2026 Aug;478:109665. doi: 10.1016/j.heares.2026.109665. Epub 2026 May 
+23.
+
+The impact of hearing loss on tone discrimination: An fMRI study.
+
+Li Q(1), Meng Y(2).
+
+Author information:
+(1)Tianjin University of Technology, College of Deaf Engineering, Tianjin, 
+China. Electronic address: lylq@tjut.edu.cn.
+(2)Tianjin University of Technology, College of Deaf Engineering, Tianjin, 
+China. Electronic address: 13523418824@163.com.
+
+Hearing deprivation induces structural and functional reorganization in the 
+brain, which compromises an individual's language processing capacity. As a 
+tonal language, Mandarin Chinese requires fine-grained auditory processing for 
+lexical tone discrimination. Nevertheless, the neural mechanisms through which 
+hearing loss influences this process remain poorly understood. This study 
+utilized functional magnetic resonance imaging (fMRI) to examine behavioral 
+performance and neural activation patterns during Mandarin tone discrimination 
+tasks in individuals with early-onset deafness. Participants included 39 
+individuals with early-onset deafness-categorized into a profound hearing loss 
+group (ED1) and a moderate-to-severe hearing loss group (ED2)-along with 33 
+normal-hearing controls (NC). Behaviorally, tone discrimination accuracy was 
+significantly lower in both the ED1 and ED2 groups compared to the NC group, 
+though performance remained above chance level (25%), with the ED1 group 
+exhibiting the lowest accuracy. fMRI results indicated that all three groups 
+activated similar brain regions, including the bilateral superior temporal gyrus 
+and the left inferior frontal gyrus. However, the ED1 group demonstrated 
+significantly heightened activation in the left superior temporal gyrus (STG) 
+and Heschl's gyrus (HG). Further analyses revealed a positive correlation 
+between the activation intensity in these regions and air conduction hearing 
+thresholds, yet no significant association was observed with behavioral 
+performance, indicating constrained neural compensation following auditory 
+deprivation. These results highlight the differential effects of hearing loss 
+severity on tone discrimination and suggest that individuals with profound 
+hearing loss recruit stronger auditory cortex activation to sustain basic tone 
+processing. The findings offer novel insights into neural plasticity in the 
+context of auditory deprivation and underscore the potential of integrating 
+multisensory training into future hearing rehabilitation programs to enhance 
+compensatory effectiveness.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2026.109665
+PMID: 42202546 [Indexed for MEDLINE]
+
+
+24. Mol Psychiatry. 2026 Aug;31(8):4310-4322. doi: 10.1038/s41380-026-03549-9. Epub 
+2026 Mar 24.
+
+Dynamic brain connectivity patterns induced by oxytocin: An fMRI Co-Activation 
+pattern analysis study.
+
+Klugah-Brown B(#)(1), Li Y(#)(2), Wu H(2), Yang Z(2), Hagan AT(2), Agoalikum 
+E(3), Wang P(4), Biswal BB(5)(6).
+
+Author information:
+(1)The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory 
+for Neuroinformation, School of Life Science and Technology, University of 
+Electronic Science and Technology of China, No.2006, Xiyuan Avenue, West Hi-Tech 
+Zone, Chengdu, China. bklugah@gmail.com.
+(2)The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory 
+for Neuroinformation, School of Life Science and Technology, University of 
+Electronic Science and Technology of China, No.2006, Xiyuan Avenue, West Hi-Tech 
+Zone, Chengdu, China.
+(3)Chengdu, Sichuan 611731, China Sichuan Provincial Center for Mental Health, 
+Sichuan Provincial People's Hospital, School of Medicine, University of 
+Electronic Science and Technology of China, Chengdu, 610072, China.
+(4)The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory 
+for Neuroinformation, School of Life Science and Technology, University of 
+Electronic Science and Technology of China, No.2006, Xiyuan Avenue, West Hi-Tech 
+Zone, Chengdu, China. wpjoepan@163.com.
+(5)The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory 
+for Neuroinformation, School of Life Science and Technology, University of 
+Electronic Science and Technology of China, No.2006, Xiyuan Avenue, West Hi-Tech 
+Zone, Chengdu, China. bbiswal@gmail.com.
+(6)Department of Biomedical Engineering, New Jersey Institute of Technology, 619 
+Fenster Hall, Newark, NJ, 07102, USA. bbiswal@gmail.com.
+(#)Contributed equally
+
+Oxytocin (OT) is a neuropeptide widely implicated in emotional regulation and 
+social cognition. However, its effects on dynamic brain connectivity remain 
+poorly understood. In this study, we applied co-activation pattern (CAP) 
+analysis to resting-state fMRI data to examine how a single intranasal dose of 
+OT modulates whole-brain functional dynamics. Participants included healthy 
+young (18-31 years) and older (63-81 years) adults, with analyses conducted at 
+both the group level and across age subgroups. OT significantly altered temporal 
+properties of brain states, including increased frequency, in-degree, and 
+out-degree in multiple CAPs, indicating enhanced network flexibility and 
+switching. Notably, OT modulated states involving the amygdala, medial 
+prefrontal cortex, and salience network, regions critical for emotion 
+regulation, and increased self-transition probabilities, suggesting greater 
+within-state stability. Age-stratified analysis revealed differential 
+sensitivity: young adults exhibited more pronounced modulation and greater 
+dynamic flexibility, while older adults showed more sustained engagement with 
+emotion-related states. Importantly, only in the elderly OT and combined young 
+subgroups did time spent in these states significantly correlate with cognitive 
+performance on the Digit Symbol Substitution Test, suggesting that OT-enhanced 
+engagement in these networks supports compensatory mechanisms during aging. No 
+such correlations were found in young participants or in either age group under 
+placebo, highlighting the specificity of oxytocin's functional relevance in 
+older adults. Meta-analytic decoding using Neurosynth confirmed that 
+OT-modulated regions are closely associated with emotion, memory, and social 
+cognition. These findings demonstrate that OT shapes transient brain dynamics in 
+age- and function-specific ways. CAP analysis provides a powerful approach for 
+capturing such neuromodulatory effects.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41380-026-03549-9
+PMCID: PMC13364637
+PMID: 41876708 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests. Ethics approval and consent to participate: All procedures 
+were conducted in accordance with relevant institutional guidelines and 
+applicable regulations. The present study involved secondary analyses of 
+previously published and publicly available datasets. For the Single Dose 
+Intranasal Oxytocin Administration (SDIOA) dataset, ethical approval was granted 
+by the University of Florida Institutional Review Board (IRB #39–2013), approved 
+by the U.S. Food and Drug Administration (IND 100,860), and pre-registered at 
+ClinicalTrials.gov (NCT01823146). For the Nathan Kline Institute/Rockland Sample 
+(NKI) dataset, Institutional Review Board approval was obtained at the Nathan 
+Kline Institute (Phase I #226781; Phase II #239708) and at Montclair State 
+University (Phase I #000983 A; Phase II #000983B). Written informed consent was 
+obtained from all adult participants. No identifiable participant images are 
+included in this manuscript.
+
+
+25. Brain Res Bull. 2026 Aug;242:111976. doi: 10.1016/j.brainresbull.2026.111976. 
+Epub 2026 May 30.
+
+Frequency-specific alterations of spontaneous brain activity in stroke patients 
+with upper limb motor dysfunction: A multi-metric rs-fMRI and machine learning 
+study.
+
+Tang Z(1), Dong L(2), Li H(3), Ren W(4), Long J(5), Liao X(6), Han K(7), Chen 
+J(8), Ling Z(9), Zhang X(10), Zhang H(11), Chi Q(12).
+
+Author information:
+(1)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China; 
+School of Rehabilitation, Capital Medical University, Beijing, China. Electronic 
+address: tangzhiqing9926@163.com.
+(2)School of Rehabilitation, Capital Medical University, Beijing, China. 
+Electronic address: neuroreh_dong@163.com.
+(3)Department of Rehabilitation Medicine, Capital Medical University Xuanwu 
+Hospital, Beijing, China. Electronic address: lihui1910@163.com.
+(4)Department of Rehabilitation, Shandong Provincial Hospital Affiliated to 
+Shandong First Medical University, Jinan, Shandong, China. Electronic address: 
+renweijingrwj@163.com.
+(5)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China; 
+School of Rehabilitation, Capital Medical University, Beijing, China. Electronic 
+address: longjunzi1006@163.com.
+(6)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China; 
+School of Rehabilitation, Capital Medical University, Beijing, China. Electronic 
+address: liao_x0319@163.com.
+(7)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China; 
+School of Rehabilitation, Capital Medical University, Beijing, China. Electronic 
+address: hankaiyue1026@163.com.
+(8)School of Rehabilitation, Capital Medical University, Beijing, China; The 
+Second School of Medicine, Wenzhou Medical University, Wenzhou, Zhejiang, China. 
+Electronic address: cjr2368@163.com.
+(9)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China; 
+School of Rehabilitation, Capital Medical University, Beijing, China. Electronic 
+address: lingzirui045@163.com.
+(10)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, 
+China; School of Rehabilitation, Capital Medical University, Beijing, China. 
+Electronic address: youthzxn@163.com.
+(11)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, 
+China; School of Rehabilitation, Capital Medical University, Beijing, China. 
+Electronic address: crrczh2020@163.com.
+(12)Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, 
+China; School of Rehabilitation, Capital Medical University, Beijing, China. 
+Electronic address: bluesky1984@163.com.
+
+BACKGROUND: Post-stroke upper limb motor dysfunction is associated with complex 
+alterations in brain function, but the frequency-specific characteristics of 
+spontaneous local neural activity remain incompletely understood. This study 
+investigated multi-metric resting-state functional magnetic resonance imaging 
+(rs-fMRI) alterations in stroke patients with upper limb motor dysfunction and 
+explored their discriminative value using machine-learning classifiers.
+METHODS: A total of 70 stroke patients and 45 healthy controls (HCs) underwent 
+rs-fMRI. Fractional amplitude of low-frequency fluctuations (fALFF), percent 
+amplitude of fluctuation (PerAF), and wavelet transform-based amplitude of 
+low-frequency fluctuations (Wavelet-ALFF) were calculated across the 
+conventional band (0.01-0.08 Hz), Slow-4 band (0.027-0.073 Hz), and Slow-5 band 
+(0.01-0.027 Hz). Voxel-wise group comparisons were performed with age, sex, and 
+mean framewise displacement as covariates. Lesion mapping, lesion-volume 
+analysis, and a subcortical-lesion subgroup sensitivity analysis were conducted 
+to assess lesion-related effects. Regional features showing significant group 
+differences were used to construct support vector machine (SVM), Random Forest, 
+and XGBoost classifiers, and model performance was evaluated on an independent 
+testing set.
+RESULTS: Compared with HCs, stroke patients showed widespread frequency-specific 
+alterations in cerebellar, visual, cingulo-motor, temporal, insular, 
+subcortical, and frontal regions. Core abnormalities in cerebellar, visual, 
+cingulate, supplementary motor, and frontal regions were largely retained in the 
+subcortical-lesion subgroup. Lesion volume was negatively correlated with 
+Fugl-Meyer Assessment for Upper Extremity scores. Several nominal associations 
+were observed between Slow-5 fALFF features in visual regions and motor 
+impairment severity, but none survived false discovery rate correction. Among 
+all testing-set models, the SVM classifier using combined multi-metric Slow-4 
+and Slow-5 features achieved the highest numerical performance, with an AUC of 
+0.956, accuracy of 0.912, sensitivity of 0.905, and specificity of 0.923. 
+However, DeLong tests showed no statistically significant superiority of 
+sub-frequency features over conventional-band features.
+CONCLUSIONS: Stroke patients with upper limb motor dysfunction exhibit 
+distributed, frequency-specific alterations in spontaneous local brain activity. 
+Multi-metric rs-fMRI features, particularly combined sub-frequency features, may 
+have exploratory discriminative value, but external validation is needed before 
+they can be considered robust imaging biomarkers.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.brainresbull.2026.111976
+PMID: 42219043 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare no conflicts of interest regarding this submission.
+
+
+26. Int J Neural Syst. 2026 Sep;36(9):2650024. doi: 10.1142/S0129065726500243. Epub 
+2026 Feb 28.
+
+An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major 
+Depressive Disorder Diagnosis from rs-fMRI.
+
+Chen Z(1), Peng J(2), Han X(3), Wang M(3), Wu J(1), Wei X(3), Gong Z(4)(5), Yao 
+D(1), Pu L(1), Yan H(1).
+
+Author information:
+(1)The Clinical Hospital of Chengdu Brain Science Institute, Sichuan Institute 
+for Brain Science and Brain-Inspired Intelligence, China-Cuba Belt and Road 
+Joint Laboratory on Neurotechnology and Brain-Apparatus Communication, School of 
+Life Science and Technology, University of Electronic Science and Technology of 
+China, Chengdu 610054, P. R. China.
+(2)Department of Radiology, Sichuan Provincial People's Hospital, University of 
+Electronic Science and Technology of China, Chengdu 610072, P. R. China.
+(3)Department of Radiology, Guangzhou First People's Hospital, School of 
+Medicine, South China University of Technology, Guangzhou 510180, P. R. China.
+(4)Information and Data Center, Guangzhou First People's Hospital, School of 
+Medicine, South China University of Technology, Guangzhou 510180, P. R. China.
+(5)Information and Data Center, The Second Affiliated Hospital, School of 
+Medicine, South China University of Technology, Guangzhou 510180, P. R. China.
+
+Major depressive disorder (MDD) is a serious, complex psychiatric condition that 
+affects millions of people worldwide. Early diagnosis and biomarker 
+identification are critical for personalized treatment and effective disease 
+monitoring. While resting-state functional magnetic resonance imaging (rs-fMRI) 
+combined with deep learning has facilitated MDD prediction, existing methods 
+often overlook the dynamic temporal characteristics of blood oxygen 
+level-dependent (BOLD) signals and ignore the strength of inter-regional 
+connections, resulting in brain region updates devoid of biological specificity. 
+To this end, a functional-dynamic synaptic graph neural network (FDSyn-GNN) is 
+proposed, which integrates a bidirectional gated recurrent unit (Bi-GRU) 
+timestamp encoding (BGTE) module for modeling dynamic BOLD signals and a 
+synaptic graph Transformer (SGT) module for connection-aware brain region 
+updates. FDSyn-GNN is validated on two large-scale MDD datasets collected across 
+multiple sites, where it outperforms 12 state-of-the-art (SOTA) baseline 
+methods. In addition, extensive ablation and interpretability analyses highlight 
+its potential for biomarker discovery, offering insights into the neural 
+mechanisms underlying MDD. The code is publicly available at 
+https://github.com/ZHChen-294/FDSyn-GNN.
+
+DOI: 10.1142/S0129065726500243
+PMID: 41762174 [Indexed for MEDLINE]
+
+
+27. Neuroimage. 2026 Aug 1;336:122008. doi: 10.1016/j.neuroimage.2026.122008. Epub 
+2026 May 16.
+
+Persistent homology decomposition (PHD) for single-run model-free fMRI and its 
+application to a task probing fluid intelligence.
+
+Lee R(1), O'Boyle M(2), Garrett A(3).
+
+Author information:
+(1)Department of Radiology, University of Texas Health Science Center at San 
+Antonio. Electronic address: leer7@uthscsa.edu.
+(2)Research Imaging Institute, University of Texas Health Science Center at San 
+Antonio.
+(3)Department of Psychiatry & Behavioral Sciences, University of Texas Health 
+Science Center at San Antonio.
+
+Conventional linear analyses of task-evoked fMRI rely on group averaging and 
+general linear model (GLM) with an assumed hemodynamic response function (HRF) 
+to amplify weak BOLD signals. However, group-averaging obscures idiosyncratic 
+brain responses, and HRFs capture only a portion of neurovascular dynamics. 
+Here, a nonlinear alternative - persistent homology decomposition (PHD) - is 
+introduced to overcome both limitations. In block-design paradigms, voxel-wise 
+temporal periodicity is reconstructed as a loop manifold in high-dimensional 
+phase space via Takens embedding, and its cyclicity is quantified using 
+persistent homology. This framework yields two distinct SNR boosting mechanisms: 
+(i) a m enhancement inherent to representing one-dimensional manifold in 
+m-dimensional phase space, replacing group-averaging, and (ii) an additional 
+nonlinear gain from topological unfolding, replacing the GLM. By identifying 
+topological features in phase space, PHD eliminates the need for HRF and 
+pre-whitening, reduces the high false positive and negative rates caused by 
+ill-posed Moore-Penrose pseudo-inversion due to noisy signals in GLM, and 
+enables a single-run, HRF-free analysis that matches or surpasses group-averaged 
+GLM in both SNR and explained variances. Applied to a 20-participnat 
+fluid-intelligence (gF) fMRI dataset, PHD reveals that idiosyncratic activation 
+within a left-lateralized visual-conceptual pathway and the salience-control 
+network complementarily drive individual gF performance - effects obscured by 
+group-averaged analysis dominated by frontoparietal patterns. These findings 
+demonstrate that PHD uncovers subject-specific neural computations inaccessible 
+to conventional linear models.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2026.122008
+PMID: 42144045 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no competing interests regarding 1. employment, stock ownership, grants, 
+patents. 2. honoraria, consultancies to sponsoring organizations, mutual fund 
+ownership, paid expert testimony 3. A relative who works at the company whose 
+product the researcher is evaluating. 4. A self-serving stake in the research 
+results (e.g. potential promotion/career advancement based on outcomes) 5. 
+Personal beliefs that are in direct conflict with the topic he/she is 
+researching.
+
+
+28. J Affect Disord. 2026 Oct 1;410:122000. doi: 10.1016/j.jad.2026.122000. Epub 
+2026 May 20.
+
+Functional connectivity alterations in post-traumatic stress disorder: A 
+resting-state fMRI study of brain network dysfunction.
+
+Hu Y(1), Shi Y(2), Hu M(1), Jiang L(1), Xing W(3), Zhang Y(4), Zhang G(5).
+
+Author information:
+(1)Department of Clinical Psychology, the First Affiliated Hospital of Shihezi 
+University, Xinjiang, Shihezi, 832008, China.
+(2)Department of Clinical Psychology, the Second General Hospital of Fuzhou 
+Neuropsychiatric Prevention and Treatment Hospital, Fujian, Fuzhou, 350007, 
+China; Department of Psychiatry, Fujian Medical University Affiliated Fuzhou 
+Neuropsychiatric Hospital, Fujian, Fuzhou, 350007, China.
+(3)Rehabilitation Medicine Center, the First Affiliated Hospital of Shihezi 
+University, Xinjiang, Shihezi, 832008, China.
+(4)Medical Imaging Center, the First Affiliated Hospital of Shihezi University, 
+Xinjiang, Shihezi, 832008, China.
+(5)Department of Clinical Psychology, the First Affiliated Hospital of Shihezi 
+University, Xinjiang, Shihezi, 832008, China. Electronic address: 
+firstli@126.com.
+
+INTRODUCTION: Emerging evidence positions post-traumatic stress disorder (PTSD) 
+as a disease fundamentally involving disturbances in whole-brain network 
+coordination. Nonetheless, comprehensive studies systematically integrating 
+time-invariant connectivity metrics with time-resolved dynamic assessments 
+remain limited.
+METHOD: This case-control investigation enrolled 33 PTSD patients and 33 healthy 
+controls who completed resting-state functional magnetic resonance imaging and 
+cognitive assessment using the Addenbrooke's Cognitive Examination-III. We 
+evaluated static connectivity via functional connectivity density mapping and 
+assessed dynamic connectivity using sliding-window analysis to identify 
+recurrent brain states and quantify temporal properties including state 
+transitions and connection-level variability, while controlling for age, sex, 
+education, and comorbidity.
+RESULTS: Patients with PTSD demonstrated increased global connectivity density 
+in the left insula, indicating aberrant salience processing and impaired global 
+network reconfiguration flexibility. Connection-level analysis revealed 25 
+significantly altered connections with elevated temporal variability in PTSD 
+across sensorimotor, limbic, paralimbic, striatal, and thalamocortical circuits. 
+Notably, after adjusting for comorbidity, no group differences were found in 
+dynamic state transitions. In healthy controls, lower orbitofrontal and medial 
+prefrontal connectivity variability correlated positively with cognitive 
+performance, whereas in PTSD patients, elevated variability in sensorimotor, 
+paralimbic, striatal and cingulate-temporal connections was negatively 
+associated with attention and memory function.
+CONCLUSION: Our findings identify a profile of PTSD pathophysiology defined by 
+left insular hyperconnectivity and circuit-specific temporal instability. These 
+results reinforce the model of PTSD as a disorder of whole-network dysregulation 
+and provide a foundation for developing biomarkers targeting its distinct 
+spatiotemporal connectivity signatures.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2026.122000
+PMID: 42167692 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+29. J Affect Disord. 2026 Nov 1;412:122054. doi: 10.1016/j.jad.2026.122054. Epub 
+2026 Jun 2.
+
+How machine learning applied on fMRI could improve the prognosis of the 
+post-traumatic stress disorder: A systematic review.
+
+Peyvandi A(1), Pigoni A(1), Anastasi A(2), Nosari G(1), Borghi L(3), Vegni E(3), 
+Brambilla P(4), Delvecchio G(5).
+
+Author information:
+(1)Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda 
+Ospedale Maggiore Policlinico, Milan, Italy.
+(2)Department of Pathophysiology and Transplantation, University of Milan, 
+20122, Milan, Italy.
+(3)Department of Health Sciences, University of Milan, Milan, Italy; Unit of 
+Clinical Psychology, Department of Mental Health and Dependencies, ASST Santi 
+Paolo and Carlo, Milan, Italy.
+(4)Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda 
+Ospedale Maggiore Policlinico, Milan, Italy; Department of Pathophysiology and 
+Transplantation, University of Milan, 20122, Milan, Italy.
+(5)Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda 
+Ospedale Maggiore Policlinico, Milan, Italy; Department of Pathophysiology and 
+Transplantation, University of Milan, 20122, Milan, Italy. Electronic address: 
+giuseppe.delvecchio@policlinico.mi.it.
+
+BACKGROUND: Post-traumatic stress disorder (PTSD) is a stressor-related disorder 
+that affects a significant proportion of the population worldwide. Despite the 
+neurological nature of this disorder, its functional biomarkers, due to mixed 
+results remain far to be understood. Therefore, the present review study aims to 
+explore functional brain differences between individuals with PTSD and healthy 
+controls with (TEHC) and without (TUHC) trauma exposure, using a machine 
+learning approach.
+METHOD: A systematic search was performed in PubMed, Embase, and Scopus to 
+identify relevant studies published before 1st of November 2024. A total of 19 
+studies were included in our data extraction process. The paper has been 
+registered on OSF 
+(https://archive.org/details/osf-registrations-n6bc7-v1)/(https://osf.io/n6bc7/).
+RESULTS: Default mode and salience networks have been determinant in classifying 
+PTSD participants from both TEHC and TUHC. However, middle frontal gyrus as well 
+as sensory motor area were only involved in classifying PTSD participants from 
+TEHC. Finally, the results have also shown that the association between left 
+amygdala and hippocampus is determinant in identification of PTSD severity.
+LIMITATIONS: The analysis of the available literature was restricted due to the 
+non-homogeneous characteristics of studies - both in terms of methodology and 
+clinical aspects - which restricted our ability to draw comprehensive 
+conclusions. In addition, some studies used overlapping samples therefore 
+limiting the generalizability of the results.
+CONCLUSION: The identified networks play a crucial role in distinguishing PTSD 
+participants from healthy participants. These findings could aid in developing 
+more accurate diagnostic tools and may even help predict individuals at higher 
+risk of developing PTSD following exposure to trauma events.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2026.122054
+PMID: 42235829 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+30. Magn Reson Med. 2026 Sep;96(3):1206-1218. doi: 10.1002/mrm.70429. Epub 2026 May 
+10.
+
+Ultrafast fMRI Detects Age-Related Changes in Harmonics of Cardiac Pulsations in 
+the Brain at 7 T.
+
+Marchini C(1)(2), Abdelkarim D(1), Chai Y(1)(3), Fabiani M(1)(4)(5), Gratton 
+G(1)(4)(5), Sutton BP(1)(2)(3)(4)(6).
+
+Author information:
+(1)Beckman Institute for Advanced Science and Technology, University of Illinois 
+at Urbana-Champaign, Urbana, Illinois, USA.
+(2)Grainger College of Engineering, Bioengineering Department, University of 
+Illinois at Urbana-Champaign, Urbana, Illinois, USA.
+(3)Carle Illinois Advanced Imaging Center, Carle Hospital and University of 
+Illinois at Urbana-Champaign, Urbana, Illinois, USA.
+(4)Neuroscience Program, University of Illinois at Urbana-Champaign, Urbana, 
+Illinois, USA.
+(5)Department of Psychology, University of Illinois at Urbana-Champaign, 
+Champaign, Illinois, USA.
+(6)Carle Illinois College of Medicine, University of Illinois at 
+Urbana-Champaign, Urbana, Illinois, USA.
+
+Update of
+    bioRxiv. 2025 Oct 29:2025.10.28.685077. doi: 10.1101/2025.10.28.685077.
+
+PURPOSE: Aging impacts pulsatility of blood vessels in the brain, reflecting 
+vascular health. Resolving characteristics of cardiac pulsatility requires 
+faster acquisitions than traditional fMRI. An ultrafast fMRI method was 
+developed and applied to sample several harmonics of cardiac pulsations at 7 T.
+METHODS: Leveraging partial separability, an ultrafast fMRI method (TR = 65 ms) 
+was applied at 7 T with full brain coverage at 2 mm isotropic resolution and 
+concurrent pulse plethysmographic (PPG) recordings in 28 healthy adults, 22 of 
+whom had acceptable PPG and MRI data. The reliability of the pulsation was 
+assessed for each voxel through even/odd splitting of heartbeats. The PPG was 
+used to retrospectively temporally align signals across heartbeats, and analysis 
+was performed on amplitudes of harmonic frequencies to explore age- and 
+sex-related differences. Reliable measures of four harmonics of the heartbeat 
+were characterized along with the ratios of the harmonics to the primary 
+harmonic.
+RESULTS: High reliability of the pulsation was found near major arteries, tested 
+by Spearman correlation between the first harmonic and a vessel atlas 
+(p < 0.0001). Consistent with previous literature, older adults exhibited higher 
+harmonic amplitudes with the strongest result in the second harmonic in gray 
+matter with FDR-corrected q = 0.020. In addition, males had a higher 
+third-to-first harmonic ratio.
+CONCLUSION: Ultrafast fMRI can reliably resolve several harmonics of cardiac 
+pulsations in the brain in and around blood vessels. This may provide a way to 
+characterize vascular health throughout the brain during aging.
+
+© 2026 The Author(s). Magnetic Resonance in Medicine published by Wiley 
+Periodicals LLC on behalf of International Society for Magnetic Resonance in 
+Medicine.
+
+DOI: 10.1002/mrm.70429
+PMCID: PMC13327429
+PMID: 42108754 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare that this study received funding 
+from the Beckman Institute for Advanced Science and Technology at the University 
+of Illinois Urbana Champaign.
+
+
+31. Brain Res Bull. 2026 Aug;242:111971. doi: 10.1016/j.brainresbull.2026.111971. 
+Epub 2026 May 27.
+
+Graph theory analysis of resting-state fMRI identified neural correlates of 
+disease severity and surgical prognosis in degenerative cervical myelopathy.
+
+Ge Y(1), Li H(1), Chen Q(1), Xia J(1), Wang Y(1), Xue Y(2), He D(3).
+
+Author information:
+(1)Department of Orthopedics, Beijing Jishuitan Hospital, Capital Medical 
+University, Beijing 100035, China.
+(2)Department of Orthopedics Surgery, Tianjin Medical University General 
+Hospital, Tianjin 300052, China. Electronic address: tjghx3188@163.com.
+(3)Department of Orthopedics, Beijing Jishuitan Hospital, Capital Medical 
+University, Beijing 100035, China. Electronic address: heda@jst-hosp.com.cn.
+
+OBJECTIVE: To investigate the neural correlates of the mismatch between the 
+degree of spinal cord compression and the severity of symptoms in degenerative 
+cervical myelopathy (DCM) patients using graph theory analysis and to explore 
+its value in predicting prognosis.
+METHODS: We collected clinical data and resting-state fMRI data from 54 DCM 
+patients and 50 healthy controls (HC). We constructed networks based on the 
+Automated Anatomical Labeling template and performed graph theory analyses. In 
+analysis 1, we investigated intergroup differences in graph theory metrics. In 
+analyses 2 and 3, we examined differences in metrics between mild symptom 
+patients and severe symptom patients after eliminating the confounding effect of 
+compression degree. In analysis 4, we tested the utility of the graph theory 
+metrics that exhibited significant intergroup differences for predicting patient 
+prognosis.
+RESULTS: Small-world architecture in networks was identified in all the 
+participants. Compared to HC, DCM patients exhibited higher global efficiency in 
+global network metrics and abnormal nodal topological properties which were 
+predominantly in sensorimotor cortex, default mode network, prefrontal network 
+and visual network. The metrics showing significant abnormalities in DCM 
+patients overlapped spatially with those showing inter-group differences both 
+between mild symptom and severe symptom patients, and between severe compression 
+but mild symptoms and mild compression but severe symptoms patients. The 
+prognostic model incorporating graph theory metrics can predict postoperative 
+outcomes.
+CONCLUSION: Abnormal network topology in DCM patients influences disease 
+severity and can provide information for predicting patient prognosis.
+
+Copyright © 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.brainresbull.2026.111971
+PMID: 42208820 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that the research was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential conflict of 
+interest.
+
+
+32. NMR Biomed. 2026 Aug;39(8):e70342. doi: 10.1002/nbm.70342.
+
+Task-Evoked Functional Activation and Coupling With CSF Flow Detected in the 
+Human Brain With Ultrashort Echo Time fMRI at 7 T.
+
+Ponticorvo S(1), Paasonen E(2)(3), Filip P(4), Rothman DL(5), Valjakka JS(2), 
+Gröhn O(2), Michaeli S(1), Mangia S(1).
+
+Author information:
+(1)Department of Radiology, Center for Magnetic Resonance Research, University 
+of Minnesota, Minneapolis, Minnesota, USA.
+(2)A. I. Virtanen Institute for Molecular Sciences, University of Eastern 
+Finland, Kuopio, Finland.
+(3)Neurocenter, Kuopio University Hospital, Kuopio, Finland.
+(4)General University Hospital, Charles University, Prague, Czech Republic.
+(5)Department of Radiology and Biomedical Imaging, Magnetic Resonance Research 
+Center, Yale University, New Haven, Connecticut, USA.
+
+Ultrashort echo time (UTE) and zero echo time (ZTE) techniques have been shown 
+to generate robust functional MRI (fMRI) contrast of hemodynamic origin from the 
+inflow of unperturbed spins into the imaging volume under local radiofrequency 
+transmission. As such, they are ideally suited not only to map the dynamics of 
+cerebral blood flow (CBF) during intense neuronal activity but also the dynamics 
+of cerebrospinal fluid (CSF). The goal of this work was to pilot the use of 
+UTE-fMRI for human studies of brain activation and neurofluid dynamics. We thus 
+conducted fMRI studies at 7 T with a transmit/receive head coil using a 
+slab-selective UTE sequence on 13 human participants during a visual task. 
+Spatio-temporally matched gradient-echo echo planar imaging (GE-EPI) data were 
+also acquired for qualitative comparison purposes, and respiratory and cardiac 
+signals were measured to quantify multiple physiological metrics. Functional 
+brain activations were analyzed using a general linear model at single subject 
+and group levels. Moreover, time-courses from the whole cortex, carotid 
+arteries, and fourth ventricle were correlated between each other, and 
+physiological contributions to these ROI signals were evaluated with a linear 
+mixed model and a relative importance computation. Robust and reproducible 
+functional activations were detected with UTE-fMRI in the visual cortex across 
+participants. Although the functional contrast-to-noise ratio was higher with 
+GE-EPI than with UTE, the temporal signal-to-noise ratio was lower, and 
+group-level statistical power and activation patterns of UTE maps were similar 
+to those obtained with GE-EPI. In addition, the UTE task-evoked signal in CSF 
+was negatively correlated with those in the whole cortex and in the carotid 
+arteries and was primarily driven by the stimulus paradigm. We conclude that 
+UTE-fMRI can be used not only for functional studies of the human brain but also 
+for assessing the relationship between hemodynamic and CSF signals, which can 
+help elucidate brain homeostatic processes.
+
+© 2026 The Author(s). NMR in Biomedicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/nbm.70342
+PMCID: PMC13284447
+PMID: 42324687 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+33. Neurocrit Care. 2026 Aug;45(1):68-82. doi: 10.1007/s12028-025-02435-6. Epub 2026 
+Jan 15.
+
+From fMRI to Family Meeting: Clinician and Family Perspectives on 
+Neurotechnology-Informed Shared Decision-Making in Disorders of Consciousness.
+
+Bhardwaj T(1), Edlow BL(1)(2), Young MJ(3).
+
+Author information:
+(1)Center for Neurotechnology and Neurorecovery, Department of Neurology, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+(2)Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General 
+Hospital, Charlestown, MA, USA.
+(3)Center for Neurotechnology and Neurorecovery, Department of Neurology, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA. 
+michael.young@mgh.harvard.edu.
+
+Patients with disorders of consciousness (DoC) characteristically lack 
+decision-making capacity, a central challenge for shared decision-making, as 
+surrogate decision-makers must navigate the uncertainties of making proxy care 
+decisions. The element of uncertainty is especially prominent considering 
+growing recognition of cognitive motor dissociation or covert consciousness, 
+attributable to advances in neurotechnologies that enable the detection of 
+signatures of responsiveness and recovery capacity that evade routine bedside 
+detection. Professional society guidelines now recommend use of advanced 
+neurotechnologies for some patients, marking their transition from 
+investigational into guideline-directed clinical tests. Yet, advanced 
+neurotechnologies themselves introduce uncertainties to the calculus of shared 
+decision-making, particularly given a paucity of guidance on clinical 
+translation. Through semistructured interviews, we examined attitudes of 
+clinicians and family members of patients with potential covert consciousness 
+during three stages of conversation regarding translation of advanced 
+neurotechnologies into DoC practice. Although clinicians described weighing 
+clinical, prognostic, and logistical factors when deciding to introduce advanced 
+testing, most family members regarded clinicians as ethically obligated to offer 
+advanced neurotechnologies in DoC assessment. There was near consensus that 
+results of advanced neurotechnologies must be shared, even in research contexts. 
+The majority of clinicians and family members posited that results of advanced 
+neurotechnologies should be communicated in ways that are sensitive to families' 
+understanding, background, receptiveness to information, and anticipated 
+decision-making role, and they valued transparency regarding the limitations and 
+uncertainties inherent to these modalities. Clinicians placed higher weight on 
+positive rather than negative results. Half of family members reported that 
+results of advanced neurotechnologies impacted care decisions for their loved 
+ones with DoC. Our findings reveal key points of convergence and divergence 
+between clinicians and family members throughout stages of decision-making, 
+grounding an ethically informed discussion guide that clinicians may use as a 
+roadmap to support shared decision-making in this emerging context.
+
+© 2026. Springer Science+Business Media, LLC, part of Springer Nature and 
+Neurocritical Care Society.
+
+DOI: 10.1007/s12028-025-02435-6
+PMID: 41540310 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of Interest: The authors 
+have no declarations of conflicting interest. Ethical Approval/Informed Consent: 
+This manuscript adheres to ethical guidelines. Informed consent and 
+institutional review board approval was obtained for the research described in 
+this manuscript.
+
+
+34. Complement Ther Med. 2026 Aug;99:103382. doi: 10.1016/j.ctim.2026.103382. Epub 
+2026 Apr 13.
+
+Effect of Tai Chi and transcranial direct current stimulation on spontaneous 
+neural activity in patients with mild cognitive impairment: An exploratory 
+resting-state fMRI study.
+
+Liu H(1), Li H(1), Ren J(1), Liufu L(1), Yang Y(1), Wu M(1), Xu Y(2), Tao J(3).
+
+Author information:
+(1)College of Rehabilitation Medicine, Fujian University of Traditional Chinese 
+Medicine, Fuzhou, China.
+(2)Key Laboratory of Orthopedics & Traumatology of Traditional Chinese Medicine 
+and Rehabilitation, Ministry of Education, Fujian University of Traditional 
+Chinese Medicine, Fuzhou, China; National-Local Joint Engineering Research 
+Center of Rehabilitation Medicine Technology, Fujian University of Traditional 
+Chinese Medicine, Fuzhou, China. Electronic address: aaa8858@qq.com.
+(3)College of Rehabilitation Medicine, Fujian University of Traditional Chinese 
+Medicine, Fuzhou, China. Electronic address: taojing01@fjtcm.edu.cn.
+
+INTRODUCTION: Tai Chi (TC) combined with transcranial direct current stimulation 
+(tDCS) improves memory function in patients with mild cognitive impairment 
+(MCI), but underlying neurophysiological mechanisms remain unclear. This study 
+aims to explore whether TC and tDCS can independently or interactively regulate 
+spontaneous neural activity in different brain regions and enhance memory 
+function.
+METHODS: In a randomized 2 × 2 factorial trial, 128 MCI patients were assigned 
+to TC, tDCS, TC combined with tDCS, or health education for 12 weeks. Memory 
+performance was assessed using the Chinese Wechsler Memory Scale-Revised 
+(WMS-RC), Auditory Verbal Learning Test (AVLT), and Rey-Osterrieth Complex 
+Figure Test (ROCF). Resting-state functional MRI was performed at baseline and 
+post-intervention.
+RESULTS: TC significantly improved WMS-RC memory quotient (P < 0.001), AVLT-cued 
+recall (P = 0.042), recognition (P = 0.005), and increased activity in the 
+middle/inferior temporal gyrus (P < 0.05). tDCS significantly enhanced memory 
+quotient (P < 0.001), ROCF-recall (P = 0.030), AVLT-recognition (P = 0.013), and 
+modulated activity in the left postcentral gyrus, lingual gyrus, calcarine 
+fissure, and bilateral frontal regions (P < 0.05). TC combined with tDCS 
+significantly interacted with immediate recall (P = 0.016) and altered activity 
+across multiple cortical regions (P < 0.05), and changes in immediate recall 
+were negatively correlated with the ALFF value of the right orbital part of the 
+middle frontal gyrus (r = -0.263, P = 0.011).
+CONCLUSIONS: TC and tDCS have distinct yet complementary neural and cognitive 
+effects in MCI, supporting their integration as a promising multimodal strategy 
+to delay cognitive decline.
+TRIAL REGISTRATION: Chinese Clinical Trial Registry, ChiCTR2200059316.
+
+Copyright © 2026 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctim.2026.103382
+PMID: 41980631 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+35. Magn Reson Imaging. 2026 Sep;131:110696. doi: 10.1016/j.mri.2026.110696. Epub 
+2026 Apr 24.
+
+A mathematically accurate angular regression model optimizes phase activation 
+and yields additional physiological information in FMRI.
+
+Bodenschatz JC(1), Rowe DB(2).
+
+Author information:
+(1)Department of Mathematical and Statistical Sciences, Marquette University, 
+1313 W. Wisconsin Avenue, Milwaukee, 53233, WI, USA.
+(2)Department of Mathematical and Statistical Sciences, Marquette University, 
+1313 W. Wisconsin Avenue, Milwaukee, 53233, WI, USA. Electronic address: 
+daniel.rowe@marquette.edu.
+
+In functional magnetic resonance imaging (fMRI), it is important to observe the 
+functioning brain as fast as possible and at as high of a spatial resolution as 
+possible. Increased spatial and temporal speed results in voxels with increased 
+noise relative to signal and contrast. There is much evidence to suggest that 
+there is important biological information contained within the phase component 
+of the fMRI signal. When the signal-to-noise ratio within a voxel is low, as 
+when there is ultra-high resolution, the marginal statistical distribution of 
+the phase is non-standard and difficult to work with. This non-standard marginal 
+phase distribution at high signal-to-noise ratios is Normally distributed, but 
+at low signal-to-noise ratios needs to be utilized for accurate modeling. In 
+this work, phase-only activation will be computed directly from Lathi's 
+mathematically correct non-Normal distribution, yielding additional 
+physiological information to what is typically observed.
+
+Copyright © 2026 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mri.2026.110696
+PMID: 42035995 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None declared.
+
+
+36. Cogn Neurodyn. 2026 Dec;20(1):24. doi: 10.1007/s11571-025-10397-w. Epub 2025 Dec 
+26.
+
+Does learning a second or third language affect the adaptation of cognitive 
+control in multilinguals? A longitudinal fMRI study.
+
+Xing Z(1)(2), Wang X(1)(2), Huang J(1)(2), Schwieter JW(3)(4), Liu H(1)(2).
+
+Author information:
+(1)Institute of Psychological and Brain Sciences, Liaoning Normal University, 
+Dalian, 116029 China.
+(2)Key Laboratory of Brain and Cognitive Neuroscience, Dalian, 116029 Liaoning 
+Province China.
+(3)Language Acquisition, Multilingualism, and Cognition Laboratory / 
+Bilingualism Matters @ Wilfrid Laurier University, Waterloo, Canada.
+(4)Department of Linguistics and Languages, McMaster University, Hamilton, 
+Canada.
+
+Numerous studies in the bilingual literature have shown that cognitive control 
+adapts to several factors related to second language (L2) learning. However, 
+whether third language (L3) learning influences cognitive control remains 
+underexplored. In this longitudinal study, we analyzed behavioral performance 
+and functional magnetic resonance imaging (fMRI) data among Chinese-English 
+bilinguals at resting-state and during a flanker task both prior to English (L2) 
+or Japanese (L3) learning and one year later. During brain resting-states for 
+these same learners, we conducted a correlation analysis between language exam 
+scores and functional connectivity strength of resting-state data after one year 
+of study. The connectivity between the left anterior cingulate cortex (ACC) and 
+the left precuneus was positively correlated with English listening performance, 
+while the connectivity between the right supramarginal gyrus (SMG) and the right 
+inferior parietal lobe (IPL) was negatively correlated with English oral 
+performance. The behavioral results from the flanker task showed that after one 
+year of L2 learning in a classroom setting, a significantly smaller flanker 
+effect emerged among Chinese-English bilinguals. Moreover, brain imaging 
+revealed that incongruent flanker trials elicited greater activation of the left 
+superior frontal gyrus (SFG) than congruent trials. These behavioral and neural 
+patterns were not found among Chinese-English bilinguals who had studied 
+Japanese for one year. Taken together, these findings suggest that cognitive 
+control adapts to L2 learning, but appears to be unaffected by L3 learning.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s11571-025-10397-w.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2025.
+
+DOI: 10.1007/s11571-025-10397-w
+PMCID: PMC12743047
+PMID: 41458475
+
+Conflict of interest statement: Conflict of interestWe have no known conflict of 
+interest to disclose.
