@@ -1,0 +1,207 @@
+"\site-specific ------ "\específico del sitio
+"19f ------ "19f
+"3+7" ------ "3+7"
+"abcdef ------ "abcdef
+"accuracy ------ "exactitud
+"actionable" ------ "procesable"
+"acute ------ "agudo
+"adaptive ------ "adaptado
+"advances ------ "insinuaciones
+"aggregation-induced ------ "inducido por agregación
+"amino ------ "aminado
+"an ------ "un
+"analysis ------ "análisis
+"are ------ "son
+"aspirin ------ "aspirina
+"associations ------ "asociaciones
+"beneficial ------ "beneficioso
+"beta-hydroxybutyrate ------ "beta-hidroxibutirato
+"bidirectional ------ "bidireccional
+"bioprinting ------ "bioimpresión
+"biosorption ------ "biosorción
+"blockchain-enhanced ------ "mejorado con blockchain
+"blue ------ "azul
+"bone ------ "hueso
+"bont-a ------ "bont-a"
+"borderline ------ "límite
+"care ------ "cuidado
+"cervical ------ "cervical
+"children ------ "niños
+"choroid ------ "coroides
+"chronic ------ "crónico
+"clinical ------ "clínico
+"clustering ------ "agrupación
+"coal-to-gas" ------ "carbón a gas"
+"cognitive ------ "cognitivo
+"comparable ------ "comparable
+"comparing ------ "comparando
+"controlling ------ "controlador
+"corrigendum ------ "corrección
+"cross-frequency ------ "frecuencia cruzada
+"cross-population ------ "población cruzada
+"d-" ------ "d-"
+"dermatology ------ "dermatología
+"development ------ "desarrollo
+"diagnostic ------ "diagnóstico
+"dietary ------ "dietético
+"discovery ------ "descubrimiento
+"disease ------ "enfermedad
+"dpc ------ "dpc
+"e-cigarette ------ "cigarrillo electrónico
+"early-life ------ "primeros años de vida
+"effect ------ "efecto
+"effectiveness ------ "eficacia
+"effects ------ "efectos
+"efficacy ------ "eficacia
+"electroacupuncture ------ "electroacupuntura
+"electronic ------ "electrónico
+"elevated ------ "elevado
+"emergency ------ "emergencia
+"enhanced ------ "mejorado
+"enhancing ------ "mejorando
+"erythropoietin ------ "eritropoyetina
+"establish ------ "establecer
+"european ------ "europeo
+"expression ------ "expresión
+"extracellular ------ "extracelular
+"feasibility ------ "factibilidad
+"fermented ------ "fermentado
+"fertility ------ "fertilidad
+"folic ------ "fólico
+"from ------ "de
+"genomic ------ "genómico
+"ginsenoside ------ "ginsenósido
+"global ------ "global
+"hammock ------ "hamaca
+"healthy ------ "saludable
+"hitting ------ "golpear
+"i\m ------ "soy
+"ignition ------ "encendido
+"impact ------ "impacto
+"impaired ------ "dañado
+"improved ------ "mejorado
+"infection ------ "infección
+"interleukin-6 ------ "interleucina-6
+"investigating ------ "investigando
+"investigation ------ "investigación
+"it ------ "él
+"joyage" ------ "alegría"
+"just ------ "justo
+"ketogenic ------ "cetogénico
+"knock ------ "golpear
+"kobuvirus ------ "cobuvirus
+"lead ------ "dirigir
+"left ------ "izquierda
+"leonurine ------ "leonurina
+"letter ------ "carta
+"leveraging ------ "aprovechando
+"light-writing/chemical-erasing" ------ "escritura con luz/borrado químico"
+"liking" ------ "gusto"
+"lipophilic ------ "lipófilo
+"lock-key" ------ "llave de bloqueo"
+"malignant ------ "maligno
+"manta ------ "manta
+"mechanisms ------ "mecanismos
+"metabolic ------ "metabólico
+"method ------ "método
+"methodological ------ "metodológico
+"microenvironment-responsive ------ "responsivo al microambiente
+"microrna-107 ------ "microrna-107
+"mir-466f-3p ------ "mir-466f-3p
+"naoxinqing ------ "naoxinqing
+"network ------ "red
+"neurotoxic ------ "neurotóxico
+"neutralizing ------ "neutralizante
+"no ------ "No
+"non-invasive ------ "no invasivo
+"nonmodifiable" ------ "no modificable"
+"not ------ "no
+"obstetric ------ "obstétrico
+"ocrelizumab ------ "ocrelizumab
+"on ------ "en
+"one ------ "uno
+"optimizing ------ "optimizando
+"overexpression ------ "sobreexpresión
+"pathologists ------ "patólogos
+"plasma-enhanced ------ "mejorado con plasma
+"pleasantly ------ "agradablemente
+"positive ------ "positivo
+"postobstructive ------ "postobstructivo
+"preparation ------ "preparación
+"prevalence ------ "predominio
+"prophylactic ------ "profiláctico
+"psychotropic ------ "psicotrópico
+"randomized ------ "aleatorizado
+"rbms3 ------ "rbms3
+"re ------ "re
+"recognition ------ "reconocimiento
+"reconsidering ------ "reconsiderando
+"refined ------ "refinado
+"regγ ------ "regγ
+"resveratrol ------ "resveratrol
+"sandwich" ------ "sándwich"
+"serious ------ "grave
+"serum ------ "suero
+"sex ------ "sexo
+"sex-related ------ "relacionado con el sexo
+"short-term ------ "Corto plazo
+"shut ------ "cerrar
+"sodium ------ "sodio
+"spatial ------ "espacial
+"strengthening ------ "fortalecimiento
+"suicidal ------ "suicida
+"sustainable ------ "sostenible
+"suzetrigine ------ "suzetrigina
+"swing ------ "balancearse
+"symptom ------ "síntoma
+"synovial ------ "sinovial
+"synthesis ------ "síntesis
+"targeting ------ "orientación
+"temporal ------ "temporal
+"that\s ------ "eso es
+"the ------ "el
+"they ------ "ellos
+"thromboelastography ------ "tromboelastografía
+"time ------ "tiempo
+"tmem41b ------ "tmem41b
+"tongfu-xingshen ------ "tongfu-xingshen
+"trends ------ "tendencias
+"trifluoroacetic ------ "trifluoroacético
+"trigonelline ------ "trigonelina
+"ucl ------ "ucl
+"upper ------ "superior
+"urinary ------ "urinario
+"vasopressors ------ "vasopresores
+"vexus-ed ------ "vexus-ed"
+"who-where-how" ------ "quién-dónde-cómo"
+"wireless ------ "inalámbrico
+"yitangkang ------ "yitangkang
+"association" ------ "asociación"
+"beak" ------ "pico"
+"breast" ------ "mama"
+"chulian" ------ "chuliano"
+"clinical" ------ "clínico"
+"consonant" ------ "consonante"
+"diagnostic" ------ "diagnóstico"
+"doing" ------ "haciendo"
+"dual-engine" ------ "doble motor"
+"eco-friendly" ------ "ecológico"
+"effect" ------ "efecto"
+"finding" ------ "descubrimiento"
+"foetal-type" ------ "tipo fetal"
+"gordian" ------ "gordiano"
+"human-relevant" ------ "relevante para los seres humanos"
+"methods" ------ "métodos"
+"mitochondrial" ------ "mitocondrial"
+"presence" ------ "presencia"
+"removal" ------ "eliminación"
+"revisiting" ------ "revisando"
+"russian" ------ "ruso"
+"targeting" ------ "orientación"
+"the" ------ "el"
+"west" ------ "Oeste"
+"whirl" ------ "giro"
+"why" ------ "por qué"
+"yolk" ------ "yema de huevo"
+"ziyan" ------ "ziyan"
+"đồng" ------ "đồng"
